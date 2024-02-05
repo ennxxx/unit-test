@@ -4,7 +4,7 @@ const postModel = require('../models/post');
 exports.addPost = (req, res) => {
   // const errors = validationResult(req);
 
-  // if (errors.isEmpty()) {
+  if (errors.isEmpty()) {
     const {
       title,
       content
@@ -12,7 +12,7 @@ exports.addPost = (req, res) => {
 
     const author = req.session.user;
 
-    postModel.create({ title, content, author}, (err, post) => {
+    postModel.create({ title, content, author }, (err, post) => {
       if (err) {
         req.flash('error_msg', 'Could not create post. Please try again.');
         res.redirect('/posts/add');
@@ -35,7 +35,7 @@ exports.getUserPosts = (user, callback) => {
 
     const postObjects = [];
 
-    posts.forEach(function(doc) {
+    posts.forEach(function (doc) {
       postObjects.push(doc.toObject());
     });
 
@@ -48,6 +48,6 @@ exports.getPost = (req, res) => {
 
   postModel.getById(postId, (err, post) => {
 
-    res.render('singlepost', { pageTitle: post.title, post: post.toObject()});
+    res.render('singlepost', { pageTitle: post.title, post: post.toObject() });
   });
 }
