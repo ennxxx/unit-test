@@ -58,7 +58,6 @@ describe('Post controller', () => {
 
         });
 
-
         // Error Scenario
         it('should return status 500 on server error', () => {
             // Arrange
