@@ -12,7 +12,7 @@ describe('Post controller', () => {
         }
     };
 
-    let error = new Error({ error: 'Some error message' });
+    let error = new Error('Some error message'); // Fix: Remove the curly braces around the error message
 
     let res = {};
 
@@ -22,7 +22,7 @@ describe('Post controller', () => {
         var createPostStub;
 
         beforeEach(() => {
-            // before every test case setup first
+            // Before every test case setup first
             res = {
                 json: sinon.spy(),
                 status: sinon.stub().returns({ end: sinon.spy() })
@@ -30,10 +30,9 @@ describe('Post controller', () => {
         });
 
         afterEach(() => {
-            // executed after the test case
+            // Executed after the test case
             createPostStub.restore();
         });
-
 
         it('should return the created post object', () => {
             // Arrange
@@ -55,7 +54,6 @@ describe('Post controller', () => {
             sinon.assert.calledWith(res.json, sinon.match({ title: req.body.title }));
             sinon.assert.calledWith(res.json, sinon.match({ content: req.body.content }));
             sinon.assert.calledWith(res.json, sinon.match({ author: req.body.author }));
-
         });
 
         // Error Scenario
@@ -74,10 +72,65 @@ describe('Post controller', () => {
     });
 
     describe('update', () => {
+        var updatePostStub;
 
+        beforeEach(() => {
+            res = {
+                json: sinon.spy(),
+                status: sinon.stub().returns({ end: sinon.spy() })
+            };
+
+            updatePostStub = sinon.stub(PostModel, 'updatePost');
+        });
+
+        afterEach(() => {
+            updatePostStub.restore();
+        });
+
+        it('should return the updated post object', () => {
+            // Arrange
+            const postId = '507asdghajsdhjgasd';
+            const updatedPost = {
+                _id: postId,
+                title: 'Updated test post',
+                content: 'Updated content',
+                author: 'stswenguser',
+                date: Date.now()
+            };
+
+            req.params = { postId };
+            req.body = updatedPost;
+
+            updatePostStub.withArgs(postId, req.body).yields(null, updatedPost);
+
+            // Act
+            PostController.update(req, res);
+
+            // Assert
+            sinon.assert.calledWith(updatePostStub, postId, req.body);
+            sinon.assert.calledWith(res.json, sinon.match({ title: req.body.title }));
+            sinon.assert.calledWith(res.json, sinon.match({ content: req.body.content }));
+            sinon.assert.calledWith(res.json, sinon.match({ author: req.body.author }));
+        });
+
+        // Error Scenario
+        it('should return status 500 on server error', () => {
+            // Arrange
+            const postId = '507asdghajsdhjgasd';
+            req.params = { postId };
+            updatePostStub.yields(error);
+
+            // Act
+            PostController.update(req, res);
+
+            // Assert
+            sinon.assert.calledWith(updatePostStub, postId, req.body);
+            sinon.assert.calledWith(res.status, 500);
+            sinon.assert.calledOnce(res.status(500).end);
+        });
     });
 
     describe('findPost', () => {
 
-    })
+    });
 });
