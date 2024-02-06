@@ -26,7 +26,15 @@ PostController.update = (req, res) => {
 };
 
 PostController.findPost = (req, res) => {
+    const postId = req.params.postId;
 
+    PostModel.findPost(postId, (err, foundPost) => {
+        if (err) {
+            return res.status(500).end();
+        } else {
+            return res.json(foundPost);
+        }
+    });
 };
 
 PostController.getAllPosts = (req, res) => {

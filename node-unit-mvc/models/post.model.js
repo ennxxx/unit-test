@@ -27,3 +27,13 @@ exports.createPost = (obj, next) => {
         next(err, post)
     })
 }
+
+exports.findPost = (postId, next) => {
+    Post.findById(postId, (err, foundPost) => {
+        if (err) {
+            next(err);
+        } else {
+            next(null, foundPost);
+        }
+    });
+}
