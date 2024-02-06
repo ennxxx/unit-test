@@ -1,0 +1,5822 @@
+    1  ./updated
+    2  clear
+    3  gcc updated.c -o updated
+    4  ./updated
+    5  clear
+    6  ./updated
+    7  clear
+    8  gcc updated.c -o updated
+    9  ./updated
+   10  clear
+   11  gcc thing.c -o thing
+   12  gcc thing.c -o thing
+   13  ./thing
+   14  gcc thing.c -o thing
+   15  ./thing
+   16  clear
+   17  gcc thing.c -o thing
+   18  ./thing
+   19  clear
+   20  gcc updated.c -o updated
+   21  ./thing
+   22  ./updated
+   23  clear
+   24  gcc updated.c -o updated
+   25  ./updated
+   26  clear
+   27  gcc updated.c -o updated
+   28  ./updated
+   29  clear
+   30  gcc updated.c -o updated
+   31  ./updated
+   32  clear
+   33  gcc updated.c -o updated
+   34  ./updated
+   35  clear
+   36  gcc updated.c -o updated
+   37  ./updated
+   38  clear
+   39  gcc updated.c -o updated
+   40  ./updated
+   41  clear
+   42  gcc updated.c -o updated
+   43  ./updated
+   44  clear
+   45  gcc updated.c -o updated
+   46  ./updated
+   47  clear
+   48  gcc updated.c -o updated
+   49  ./updated
+   50  gcc checkers.c -o checkers
+   51  ./checkers
+   52  clear
+   53  clear
+   54  gcc checkers.c -o checkers
+   55  ./checkers
+   56  clear
+   57  gcc checkers.c -o checkers
+   58  ./checkers
+   59  clear
+   60  gcc checkers.c -o checkers
+   61  ./checkers
+   62  clear
+   63  gcc checkers.c -o checkers
+   64  ./checkers
+   65  clear
+   66  gcc checkers.c -o checkers
+   67  ./checkers
+   68  clear
+   69  gcc checkers.c -o checkers
+   70  ./checkers
+   71  clear
+   72  gcc checkers.c -o checkers
+   73  ./checkers
+   74  clear
+   75  gcc checkers.c -o checkers
+   76  ./checkers
+   77  cd "/Users/paulaenxi/Desktop/MP/" && gcc checkers.c -o checkers && "/Users/paulaenxi/Desktop/MP/"checkers
+   78  clear
+   79  gcc updated.c -o updated
+   80  gcc checkers.c -o checkers
+   81  ./checkers
+   82  clear
+   83  gcc checkers.c -o checkers
+   84  ./checkers
+   85  clear
+   86  gcc checkers.c -o checkers
+   87  ./checkers
+   88  clear
+   89  gcc checkers.c -o checkers
+   90  ./checkers
+   91  clear
+   92  gcc checkers.c -o checkers
+   93  ./checkers
+   94  clear
+   95  gcc checkers.c -o checkers
+   96  ./checkers
+   97  clear
+   98  gcc checkers.c -o checkers
+   99  ./checkers
+  100  clear
+  101  gcc checkers.c -o checkers
+  102  ./checkers
+  103  clear
+  104  gcc checkers.c -o checkers
+  105  ./checkers
+  106  clear
+  107  gcc checkers.c -o checkers
+  108  ./checkers
+  109  clear
+  110  gcc checkers.c -o checkers
+  111  ./checkers
+  112  clear
+  113  gcc checkers.c -o checkers
+  114  ./checkers
+  115  clear
+  116  gcc checkers.c -o checkers
+  117  ./checkers
+  118  clear
+  119  gcc checkers.c -o checkers
+  120  ./checkers
+  121  clear
+  122  gcc checkers.c -o checkers
+  123  ./checkers
+  124  clear
+  125  gcc board.c -o board
+  126  ./board
+  127  gcc board.c -o board
+  128  ./board
+  129  clear
+  130  gcc board.c -o board
+  131  ./board
+  132  clear
+  133  gcc board.c -o board
+  134  ./board
+  135  gcc board.c -o board
+  136  gcc board.c -o board
+  137  ./board
+  138  clear
+  139  gcc board.c -o board
+  140  ./board
+  141  gcc board.c -o board
+  142  ./board
+  143  gcc board.c -o board
+  144  ./board
+  145  gcc board.c -o board
+  146  ./board
+  147  gcc board.c -o board
+  148  ./board
+  149  gcc board.c -o board
+  150  ./board
+  151  gcc board.c -o board
+  152  ./board
+  153  gcc board.c -o board
+  154  ./board
+  155  gcc board.c -o board
+  156  ./board
+  157  gcc board.c -o board
+  158  ./board
+  159  gcc board.c -o board
+  160  ./board
+  161  gcc board.c -o board
+  162  ./board
+  163  gcc board.c -o board
+  164  ./board
+  165  gcc board.c -o board
+  166  ./board
+  167  gcc board.c -o board
+  168  ./board
+  169  gcc board.c -o board
+  170  ./board
+  171  gcc board.c -o board
+  172  ./board
+  173  gcc board.c -o board
+  174  ./board
+  175  gcc board.c -o board
+  176  ./board
+  177  gcc board.c -o board
+  178  ./board
+  179  gcc board.c -o board
+  180  ./board
+  181  gcc board.c -o board
+  182  ./board
+  183  gcc board.c -o board
+  184  ./board
+  185  gcc board.c -o board
+  186  ./board
+  187  gcc board.c -o board
+  188  ./board
+  189  gcc board.c -o board
+  190  ./board
+  191  gcc board.c -o board
+  192  ./board
+  193  gcc board.c -o board
+  194  ./board
+  195  gcc board.c -o board
+  196  ./board
+  197  gcc board.c -o board
+  198  ./board
+  199  gcc board.c -o board
+  200  ./board
+  201  gcc board.c -o board
+  202  ./board
+  203  gcc board.c -o board
+  204  ./board
+  205  gcc board.c -o board
+  206  ./board
+  207  gcc board.c -o board
+  208  ./board
+  209  gcc board.c -o board
+  210  ./board
+  211  gcc board.c -o board
+  212  ./board
+  213  gcc board.c -o board
+  214  ./board
+  215  gcc board.c -o board
+  216  ./board
+  217  gcc board.c -o board
+  218  ./board
+  219  gcc board.c -o board
+  220  ./board
+  221  gcc board.c -o board
+  222  ./board
+  223  gcc board.c -o board
+  224  ./board
+  225  gcc board.c -o board
+  226  ./board
+  227  gcc board.c -o board
+  228  ./board
+  229  gcc board.c -o board
+  230  ./board
+  231  gcc board.c -o board
+  232  ./board
+  233  gcc board.c -o board
+  234  ./board
+  235  gcc board.c -o board
+  236  ./board
+  237  gcc board.c -o board
+  238  ./board
+  239  gcc board.c -o board
+  240  ./board
+  241  gcc board.c -o board
+  242  ./board
+  243  gcc board.c -o board
+  244  ./board
+  245  gcc board.c -o board
+  246  ./board
+  247  gcc board.c -o board
+  248  ./board
+  249  gcc board.c -o board
+  250  ./board
+  251  gcc board.c -o board
+  252  ./board
+  253  clear
+  254  gcc checkers.c -o checkers
+  255  ./checkers
+  256  clear
+  257  gcc board.c -o board
+  258  ./checkers
+  259  clear
+  260  gcc board.c -o board
+  261  ./board
+  262  gcc board.c -o board
+  263  ./board
+  264  gcc board.c -o board
+  265  ./board
+  266  gcc board.c -o board
+  267  ./board
+  268  gcc board.c -o board
+  269  ./board
+  270  gcc board.c -o board
+  271  ./board
+  272  gcc board.c -o board
+  273  ./board
+  274  gcc board.c -o board
+  275  ./board
+  276  gcc board.c -o board
+  277  ./board
+  278  gcc board.c -o board
+  279  ./board
+  280  gcc board.c -o board
+  281  ./board
+  282  gcc board.c -o board
+  283  ./board
+  284  gcc board.c -o board
+  285  ./board
+  286  gcc board.c -o board
+  287  ./board
+  288  gcc board.c -o board
+  289  ./board
+  290  gcc board.c -o board
+  291  ./board
+  292  gcc board.c -o board
+  293  ./board
+  294  gcc board.c -o board
+  295  ./board
+  296  gcc board.c -o board
+  297  ./board
+  298  gcc board.c -o board
+  299  ./board
+  300  gcc board.c -o board
+  301  ./board
+  302  gcc board.c -o board
+  303  ./board
+  304  gcc board.c -o board
+  305  ./board
+  306  gcc board.c -o board
+  307  ./board
+  308  gcc board.c -o board
+  309  ./board
+  310  gcc board.c -o board
+  311  ./board
+  312  gcc board.c -o board
+  313  ./board
+  314  gcc board.c -o board
+  315  ./board
+  316  gcc board.c -o board
+  317  ./board
+  318  gcc board.c -o board
+  319  ./board
+  320  gcc board.c -o board
+  321  ./board
+  322  gcc board.c -o board
+  323  ./board
+  324  clear
+  325  gcc board.c -o board
+  326  ./board
+  327  gcc checkers.c -o checkers
+  328  ./checkers
+  329  clear
+  330  ./checkers
+  331  clear
+  332  gcc checkers.c -o checkers
+  333  ./checkers
+  334  clear
+  335  ./checkers
+  336  clear
+  337  gcc checkers.c -o checkers
+  338  ./checkers
+  339  clear
+  340  ./checkers
+  341  clear
+  342  gcc checkers.c -o checkers
+  343  ./checkers
+  344  clear
+  345  ./checkers
+  346  /Users/paulaenxi/Desktop/MP/checkers ; exit;
+  347  gcc checkers.c -o checkers
+  348  gcc checkers.c -o checkers
+  349  ./checkers
+  350  cd "/Users/paulaenxi/Desktop/MP/" && gcc checkers.c -o checkers && "/Users/paulaenxi/Desktop/MP/"checkers
+  351  gcc aaron.c -o aaron
+  352  ./aaron
+  353  gcc checkers.c -o checkers
+  354  gcc updated.c -o updated
+  355  ./updated
+  356  clear
+  357  gcc updated.c -o updated
+  358  ./updated
+  359  clear
+  360  gcc updated.c -o updated
+  361  ./updated
+  362  gcc updated.c -o updated
+  363  ./updated
+  364  ./updated
+  365  clear
+  366  gcc updated.c -o updated
+  367  ./updated
+  368  clear
+  369  gcc updated.c -o updated
+  370  ./updated
+  371  clear
+  372  gcc updated.c -o updated
+  373  ./updated
+  374  clear
+  375  gcc updated.c -o updated
+  376  ./updated
+  377  clear
+  378  gcc accurate.c -o accurate
+  379  ./accurate
+  380  clear
+  381  gcc updated.c -o updated
+  382  ./updated
+  383  clear
+  384  gcc updated.c -o updated
+  385  ./updated
+  386  clear
+  387  gcc updated.c -o updated
+  388  ./updated
+  389  ./updated
+  390  clear
+  391  gcc updated.c -o updated
+  392  ./updated
+  393  clear
+  394  gcc updated.c -o updated
+  395  ./updated
+  396  clear
+  397  gcc updated.c -o updated
+  398  ./updated
+  399  clear
+  400  gcc updated.c -o updated
+  401  ./updated
+  402  clear
+  403  gcc updated.c -o updated
+  404  ./updated
+  405  clear
+  406  gcc updated.c -o updated
+  407  ./updated
+  408  clear
+  409  gcc updated.c -o updated
+  410  ./updated
+  411  clear
+  412  gcc updated.c -o updated
+  413  ./updated
+  414  clear
+  415  gcc updated.c -o updated
+  416  ./updated
+  417  clear
+  418  gcc updated.c -o updated
+  419  ./updated
+  420  clear
+  421  gcc updated.c -o updated
+  422  ./updated
+  423  clear
+  424  gcc updated.c -o updated
+  425  ./updated
+  426  clear
+  427  gcc updated.c -o updated
+  428  ./updated
+  429  clear
+  430  gcc updated.c -o updated
+  431  ./updated
+  432  clear
+  433  gcc updated.c -o updated
+  434  ./updated
+  435  clear
+  436  gcc updated.c -o updated
+  437  ./updated
+  438  clear
+  439  gcc updated.c -o updated
+  440  ./updated
+  441  clear
+  442  gcc updated.c -o updated
+  443  ./updated
+  444  clear
+  445  gcc updated.c -o updated
+  446  ./updated
+  447  clear
+  448  gcc updated.c -o updated
+  449  ./updated
+  450  clear
+  451  clear
+  452  ./updated
+  453  clear
+  454  gcc updated.c -o updated
+  455  ./updated
+  456  clear
+  457  gcc updated.c -o updated
+  458  ./updated
+  459  clear
+  460  gcc updated.c -o updated
+  461  ./updated
+  462  gcc checkers.c -o checkers
+  463  ./checkers
+  464  gcc updated.c -o updated
+  465  ./updated
+  466  clear
+  467  gcc updated.c -o updated
+  468  ./updated
+  469  clear
+  470  gcc updated.c -o updated
+  471  ./updated
+  472  clear
+  473  gcc updated.c -o updated
+  474  ./updated
+  475  clear
+  476  gcc updated.c -o updated
+  477  ./updated
+  478  clear
+  479  ./updated
+  480  clear
+  481  gcc updated.c -o updated
+  482  ./updated
+  483  clear
+  484  gcc updated.c -o updated
+  485  ./updated
+  486  clear
+  487  gcc updated.c -o updated
+  488  ./updated
+  489  clear
+  490  ./updated
+  491  clear
+  492  gcc updated.c -o updated
+  493  ./updated
+  494  clear
+  495  gcc updated.c -o updated
+  496  ./updated
+  497  clear
+  498  gcc updated.c -o updated
+  499  ./updated
+  500  clear
+  501  gcc updated.c -o updated
+  502  ./updated
+  503  clear
+  504  gcc updated.c -o updated
+  505  ./updated
+  506  clear
+  507  gcc updated.c -o updated
+  508  ./updated
+  509  clear
+  510  gcc updated.c -o updated
+  511  ./updated
+  512  clear
+  513  gcc updated.c -o updated
+  514  ./updated
+  515  clear
+  516  gcc updated.c -o updated
+  517  ./updated
+  518  clear
+  519  gcc updated.c -o updated
+  520  ./updated
+  521  clear
+  522  gcc updated.c -o updated
+  523  ./updated
+  524  clear
+  525  gcc updated.c -o updated
+  526  ./updated
+  527  clear
+  528  gcc updated.c -o updated
+  529  ./updated
+  530  clear
+  531  gcc updated.c -o updated
+  532  ./updated
+  533  clear
+  534  gcc updated.c -o updated
+  535  ./updated
+  536  clear
+  537  ./updated
+  538  clear
+  539  gcc updated.c -o updated
+  540  ./updated
+  541  clear
+  542  gcc updated.c -o updated
+  543  ./updated
+  544  /Users/paulaenxi/Desktop/MP/checkers ; exit;
+  545  ./checkers
+  546  ./checkers
+  547  clear
+  548  gcc MP_S11.9_DesiderioPachecoReyes.c -o update
+  549  ./update
+  550  /Users/paulaenxi/Desktop/MP/update ; exit;
+  551  gcc updated.c -o updated
+  552  ./updated
+  553  clear
+  554  gcc updated.c -o updated
+  555  ./updated
+  556  ./updated
+  557  /Users/paulaenxi/Desktop/MP/update ; exit;
+  558  cd "/Users/paulaenxi/Desktop/MP/" && gcc MP_S11.9_DesiderioPachecoReyes.c -o MP_S11.9_DesiderioPachecoReyes && "/Users/paulaenxi/Desktop/MP/"MP_S11.9_DesiderioPachecoReyes
+  559  gcc updated.c -o updated
+  560  ./updated
+  561  ./update
+  562  clear
+  563  ./update
+  564  clear
+  565  gcc MP_S11.9_DesiderioPachecoReyes.c -o update
+  566  ./updated
+  567  ./update
+  568  cd "/Users/paulaenxi/Desktop/MP/" && gcc MP_S11.9_DesiderioPachecoReyes.c -o MP_S11.9_DesiderioPachecoReyes && "/Users/paulaenxi/Desktop/MP/"MP_S11.9_DesiderioPachecoReyes
+  569  ./update
+  570  ./update
+  571  clear
+  572  ./update
+  573  clear
+  574  ./update
+  575  ./update
+  576  clear
+  577  gcc testing.c -o testing
+  578  ./testeing
+  579  ./testing
+  580  ./testing
+  581  ./testing
+  582  gcc strcpy3.c -o strcpy3
+  583  ./strcpy3
+  584  gcc strcpy3.c -o strcpy3
+  585  ./strcpy3
+  586  gcc strcpy1.c -o strcpy1
+  587  ./strcpy1
+  588  ./strcpy1
+  589  gcc strcpy3.c -o strcpy3
+  590  ./strcpy3
+  591  make
+  592  ./Pokedex
+  593  clear
+  594  ./Pokedex
+  595  gcc PachecoP.c -Wall
+  596  gcc PachecoP.c -o run
+  597  ./run
+  598  make clean
+  599  make clean
+  600  make
+  601  make clean
+  602  ./Pokedex
+  603  make
+  604  ./Pokedex
+  605  /Users/paulaenxi/Desktop/SMAPI\ 3.15.0/install\ on\ macOS.command ; exit;
+  606  /tmp/open-smapi-terminal.sh ; exit;
+  607  /tmp/open-smapi-terminal.sh ; exit;
+  608  /tmp/open-smapi-terminal.sh ; exit;
+  609  /tmp/open-smapi-terminal.sh ; exit;
+  610  /tmp/open-smapi-terminal.sh ; exit;
+  611  /tmp/open-smapi-terminal.sh ; exit;
+  612  /tmp/open-smapi-terminal.sh ; exit;
+  613  /tmp/open-smapi-terminal.sh ; exit;
+  614  /tmp/open-smapi-terminal.sh ; exit;
+  615  /tmp/open-smapi-terminal.sh ; exit;
+  616  /tmp/open-smapi-terminal.sh ; exit;
+  617  /tmp/open-smapi-terminal.sh ; exit;
+  618  /tmp/open-smapi-terminal.sh ; exit;
+  619  /tmp/open-smapi-terminal.sh ; exit;
+  620  /tmp/open-smapi-terminal.sh ; exit;
+  621  /tmp/open-smapi-terminal.sh ; exit;
+  622  /tmp/open-smapi-terminal.sh ; exit;
+  623  /tmp/open-smapi-terminal.sh ; exit;
+  624  /tmp/open-smapi-terminal.sh ; exit;
+  625  /tmp/open-smapi-terminal.sh ; exit;
+  626  /tmp/open-smapi-terminal.sh ; exit;
+  627  /tmp/open-smapi-terminal.sh ; exit;
+  628  /tmp/open-smapi-terminal.sh ; exit;
+  629  /tmp/open-smapi-terminal.sh ; exit;
+  630  /tmp/open-smapi-terminal.sh ; exit;
+  631  /tmp/open-smapi-terminal.sh ; exit;
+  632  /tmp/open-smapi-terminal.sh ; exit;
+  633  /tmp/open-smapi-terminal.sh ; exit;
+  634  /tmp/open-smapi-terminal.sh ; exit;
+  635  /tmp/open-smapi-terminal.sh ; exit;
+  636  /tmp/open-smapi-terminal.sh ; exit;
+  637  cd "/Users/paulaenxi/Desktop/Programs/CCDSTRU MP/" && gcc MP_S11.9_DesiderioPachecoReyes.c -o MP_S11.9_DesiderioPachecoReyes && "/Users/paulaenxi/Desktop/Programs/CCDSTRU MP/"MP_S11.9_DesiderioPachecoReyes
+  638  clear
+  639  gcc finals3.c -o test
+  640  ./test
+  641  gcc finals4.c -o test1
+  642  ./test1
+  643  gcc finals4.c -o test1
+  644  ./test1
+  645  gcc finals5.c -o test2
+  646  ./test2
+  647  gcc finals5.c -o test2
+  648  ./test2
+  649  gcc finals5.c -o test2
+  650  ./test2
+  651  gcc finals6.c -o test3
+  652  ./test3
+  653  gcc finals6.c -o test3
+  654  ./test3
+  655  gcc finals6.c -o test3
+  656  ./test3
+  657  gcc finals6.c -o test3
+  658  ./test3
+  659  gcc finals6.c -o test3
+  660  ./test3
+  661  gcc finals6.c -o test3
+  662  ./test3
+  663  gcc finals6.c -o test3
+  664  ./test3
+  665  gcc finals6.c -o test3
+  666  ./test3
+  667  clear
+  668  ./test3
+  669  gcc finals6.c -o test3
+  670  ./test3
+  671  gcc finals6.c -o test3
+  672  ./test3
+  673  gcc finals6.c -o test3
+  674  gcc finals6.c -o test3
+  675  ./test3
+  676  gcc finals6.c -o test3
+  677  gcc finals6.c -o test3
+  678  ./test3
+  679  clear
+  680  gcc finals8.c -o test4
+  681  ./test4
+  682  gcc finals8.c -o test4
+  683  ./test4
+  684  gcc finals8.c -o test4
+  685  ./test4
+  686  gcc finals9.c -o test6
+  687  gcc finals9.c -o test5
+  688  ./test5
+  689  cd "/Users/paulaenxi/Desktop/Programs/Exercise/" && gcc finals9.c -o finals9 && "/Users/paulaenxi/Desktop/Programs/Exercise/"finals9
+  690  gcc
+  691  clear
+  692  gcc finals9 -o test6
+  693  gcc finals9.c -o test6
+  694  ./test6
+  695  cd "/Users/paulaenxi/Desktop/Programs/Exercise/" && gcc finals9.c -o finals9 && "/Users/paulaenxi/Desktop/Programs/Exercise/"finals9
+  696  cd "/Users/paulaenxi/Desktop/Programs/Exercise/" && gcc finals9.c -o finals9 && "/Users/paulaenxi/Desktop/Programs/Exercise/"finals9
+  697  cd "/Users/paulaenxi/Desktop/Programs/Exercise/" && gcc finals9.c -o finals9 && "/Users/paulaenxi/Desktop/Programs/Exercise/"finals9
+  698  /tmp/open-smapi-terminal.sh ; exit;
+  699  /tmp/open-smapi-terminal.sh ; exit;
+  700  /tmp/open-smapi-terminal.sh ; exit;
+  701  cd "/Users/paulaenxi/Documents/GitHub/pokemon-repo/main/" && gcc pokedex.c -o pokedex && "/Users/paulaenxi/Documents/GitHub/pokemon-repo/main/"pokedex
+  702  clear
+  703  make
+  704  cd ..
+  705  clear
+  706  make
+  707  ./Pokedex
+  708  gcc pass.c -o pass
+  709  ./pass
+  710  clear
+  711  ./pass
+  712  /tmp/open-smapi-terminal.sh ; exit;
+  713  /tmp/open-smapi-terminal.sh ; exit;
+  714  /tmp/open-smapi-terminal.sh ; exit;
+  715  /tmp/open-smapi-terminal.sh ; exit;
+  716  /tmp/open-smapi-terminal.sh ; exit;
+  717  /tmp/open-smapi-terminal.sh ; exit;
+  718  /tmp/open-smapi-terminal.sh ; exit;
+  719  /tmp/open-smapi-terminal.sh ; exit;
+  720  /tmp/open-smapi-terminal.sh ; exit;
+  721  /tmp/open-smapi-terminal.sh ; exit;
+  722  /tmp/open-smapi-terminal.sh ; exit;
+  723  /tmp/open-smapi-terminal.sh ; exit;
+  724  /tmp/open-smapi-terminal.sh ; exit;
+  725  /tmp/open-smapi-terminal.sh ; exit;
+  726  /tmp/open-smapi-terminal.sh ; exit;
+  727  /tmp/open-smapi-terminal.sh ; exit;
+  728  /tmp/open-smapi-terminal.sh ; exit;
+  729  /tmp/open-smapi-terminal.sh ; exit;
+  730  /tmp/open-smapi-terminal.sh ; exit;
+  731  /tmp/open-smapi-terminal.sh ; exit;
+  732  /tmp/open-smapi-terminal.sh ; exit;
+  733  /tmp/open-smapi-terminal.sh ; exit;
+  734  /tmp/open-smapi-terminal.sh ; exit;
+  735  /tmp/open-smapi-terminal.sh ; exit;
+  736  /tmp/open-smapi-terminal.sh ; exit;
+  737  /tmp/open-smapi-terminal.sh ; exit;
+  738  /tmp/open-smapi-terminal.sh ; exit;
+  739  /tmp/open-smapi-terminal.sh ; exit;
+  740  /tmp/open-smapi-terminal.sh ; exit;
+  741  /tmp/open-smapi-terminal.sh ; exit;
+  742   /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/paulaenxi/Library/Application\ Support/Code/User/workspaceStorage/a053310d59d64d4d8dd1b3759fd32f88/redhat.java/jdt_ws/Programs_35639494/bin HelloWorld 
+  743  /tmp/open-smapi-terminal.sh ; exit;
+  744  -zsh
+  745  clear
+  746  echo  " 127.0.0.1 $( hostname ) "  | sudo do -a /etc/hosts
+  747  echo  " 127.0.0.1 $( hostname ) "  | sudo do -a /etc/hosts
+  748  clear
+  749  echo  " 127.0.0.1 $( hostname ) "  | sudo do -a /etc/hosts
+  750  -zsh
+  751  clear
+  752  echo  " 127.0.0.1 $( hostname ) "  | sudo do -a /etc/hosts
+  753  cd "/Users/paulaenxi/Desktop/Programs/" && javac tempCodeRunnerFile.java && java tempCodeRunnerFile
+  754   /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/mq/j_mymsq55ns8m8bphh351yn00000gn/T/vscodesws_3266c/jdt_ws/jdt.ls-java-project/bin HelloWorld 
+  755   /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/paulaenxi/Library/Application\ Support/Code/User/workspaceStorage/a053310d59d64d4d8dd1b3759fd32f88/redhat.java/jdt_ws/Programs_35639494/bin HelloWorld 
+  756  clear
+  757  ./hello
+  758  clear
+  759  java hello
+  760  java HellWorld
+  761  clear
+  762  clear
+  763  javac Hello.java
+  764  javav hello.java
+  765  clear
+  766  javac hello.java
+  767  java hello
+  768  java HelloWorld
+  769  clear
+  770  clear
+  771  javac hello.java
+  772  java HelloWorld
+  773  java HelloMe
+  774  javac trials.java
+  775  java Main
+  776  javac trials.java
+  777  java trials
+  778  clear
+  779   /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/paulaenxi/Library/Application\ Support/Code/User/workspaceStorage/a053310d59d64d4d8dd1b3759fd32f88/redhat.java/jdt_ws/Programs_35639494/bin Main 
+  780   cd /Users/paulaenxi/Desktop/Programs ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/paulaenxi/Library/Application\ Support/Code/User/workspaceStorage/a053310d59d64d4d8dd1b3759fd32f88/redhat.java/jdt_ws/Programs_35639494/bin Main 
+  781  clear
+  782  javac test.java
+  783  java Main
+  784  javac test.java
+  785  java Main
+  786   /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/paulaenxi/Library/Application\ Support/Code/User/workspaceStorage/a053310d59d64d4d8dd1b3759fd32f88/redhat.java/jdt_ws/Programs_35639494/bin Main 
+  787   cd /Users/paulaenxi/Desktop/Programs ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/paulaenxi/Library/Application\ Support/Code/User/workspaceStorage/a053310d59d64d4d8dd1b3759fd32f88/redhat.java/jdt_ws/Programs_35639494/bin Main 
+  788  clear
+  789  cd "/Users/paulaenxi/Desktop/Programs/" && javac test2.java && java test2
+  790  cd "/Users/paulaenxi/Desktop/Programs/" && javac test2.java && java test2
+  791  clear
+  792  cd "/Users/paulaenxi/Desktop/Programs/" && javac test2.java && java test2
+  793  cd "/Users/paulaenxi/Desktop/Programs/" && javac test2.java && java test2
+  794  clear
+  795  javac test2.java
+  796  java Main
+  797  clear
+  798  javac hellobot.java
+  799  java SimpleBot
+  800  javac hellobot.java
+  801  java SimpleBot
+  802  clear
+  803  javec string.java
+  804  clear
+  805  javac string.java
+  806  java Main
+  807  java Main
+  808  clear
+  809  javac string.java
+  810  java Main
+  811  javac string.java
+  812  java Main
+  813  clear
+  814  javac hellobot.java
+  815  java SimpleBot
+  816  javac hellobot.java
+  817  java SimpleBot
+  818  -zsh
+  819  clear
+  820  echo  " 127.0.0.1 $( hostname ) "  | sudo do -a /etc/hosts
+  821  -zsh
+  822  clear
+  823  /usr/libexec/java_home -v '1.7*'
+  824  /path/to/jdk
+  825  /path/to/jdk
+  826  path/to/jdk
+  827  /path/to/jdk
+  828  clear
+  829  /usr/libexec/java_home -v '1.7*'
+  830  /path/to/jdk
+  831  ls
+  832  clear
+  833  cd /usr/libexec/java_home -v '1.7*'
+  834  /usr/libexec/java_home -v '1.7*'
+  835  ls
+  836  cd Library
+  837  cd Java
+  838  ls
+  839  -zsh
+  840  clear
+  841  /Library/Java/JavaVirtualMachines/temurin-11.jdk
+  842  /usr/libexec/java_home -v '1.7*'
+  843  /path/to/jdk
+  844  -zsh
+  845  clear
+  846  /Users/yourusername/.profile
+  847  ls
+  848  cd Public
+  849  ls
+  850  cd ..
+  851  clear
+  852  cd Users
+  853  clear
+  854  bash -x -l
+  855  -zsh
+  856  clear
+  857  -zsh
+  858  -zsh
+  859  -zsh
+  860  -zsh
+  861  -zsh
+  862  clear
+  863  omz update
+  864  upgrade_oh_my_zsh
+  865  clear
+  866  brew info zsh
+  867  bew install --without-etcdir zsh
+  868  brew install --without-etcdir zsh
+  869  brew install --without-etcdir zsh
+  870  clear
+  871  sudo vim /etc/shells
+  872  -zsh
+  873  clear
+  874  brew install zsh
+  875  brew info zsh\n
+  876  clear
+  877  brew install zsh
+  878  clear
+  879  brew cask install iterm2
+  880  xcode-select —-install
+  881  clear
+  882  xcode-select —-install
+  883  brew install zsh
+  884  clear
+  885  -zsh
+  886  clear
+  887  exec /bin/zsh
+  888  -zsh
+  889  clear
+  890  ls
+  891  echo $PATH
+  892  -zsh
+  893  ~/.zshrc
+  894  clear
+  895  ls -l
+  896  clear
+  897  -zsh
+  898  -zsh
+  899  nano ~/.zshrc
+  900  -zsh
+  901  clear
+  902  -zsh
+  903  -zsh
+  904  -zsh
+  905  chsh – s /bin/zsh
+  906  -l
+  907  -u
+  908  clear
+  909  -zsh
+  910  export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+  911  -zsh
+  912  echo $PATH
+  913  cd
+  914  ls -la
+  915  nano .zshrc
+  916  -zsh
+  917  -zsh
+  918  textedit
+  919  -zsh
+  920  -zsh
+  921  -zsh
+  922  -zsh
+  923  -zsh
+  924  javac Main
+  925  java Main
+  926  javac helloWorld
+  927  clear
+  928  javac Hello World
+  929  clear
+  930  javac Main.java
+  931  ls
+  932  cd src
+  933  clear
+  934  ls
+  935  javac Main.java
+  936  clear
+  937  javac Main.java
+  938  java HelloWorld
+  939  javac Main.java
+  940  java HelloWorld
+  941  -zsh
+  942  javac MyApp.java
+  943  cd ..
+  944  cd src
+  945  ls
+  946  cd _091222
+  947  sl
+  948  ls
+  949  clear
+  950  cd src
+  951  javac MyApp.java
+  952  java MyApp
+  953  javac MyApp.java
+  954  java MyApp
+  955  javac MyApp.java
+  956  java MyApp
+  957  javac MyApp.java
+  958  5
+  959  javac MyApp.java
+  960  java MyApp
+  961  -zsh
+  962  brew install zsh
+  963  /usr/sbin/softwareupdate --install-rosetta --agree-to-license\n\n
+  964   arch -x86_64 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  965  arch -x86_64 brew install zsh
+  966  -zsh
+  967  brew install zsh
+  968  ll
+  969  ll
+  970  ls
+  971  la
+  972  ls _a
+  973  ls -a
+  974  vim .zshrc
+  975  zsh
+  976  -zsh
+  977  which -zsh
+  978  which
+  979  which zsh
+  980  ls
+  981  ls -a
+  982  zsh
+  983  clear
+  984  -zsh
+  985  brew install iterm2
+  986  -zsh
+  987  -zsh
+  988  ls
+  989  ls -a
+  990  cat .zsh_history
+  991  nano .zshrc
+  992  chsh -s $(which zsh)\n
+  993  source ~/.zshrc\n
+  994  cat .zshrc
+  995  -zsh
+  996  cat .zsh_history
+  997  which -zsh
+  998  zsh
+  999  clear
+ 1000  zsh
+ 1001  -zsh
+ 1002  locate
+ 1003  locate .bash_profile
+ 1004  -zsh
+ 1005  locate .bash_profile
+ 1006  locate dick.pdf
+ 1007  locate *.pdf
+ 1008  locate .pdf
+ 1009  vim .zshrc
+ 1010  source ~/.zshrc\n
+ 1011  -zsh
+ 1012  source ~/.zshrc\n
+ 1013  export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+ 1014  -zsh
+ 1015  locate
+ 1016  locate -zsh
+ 1017  cd /etc/profile
+ 1018  cd /etc/
+ 1019  ls
+ 1020  ls | grep "bash"
+ 1021  cat bashrc
+ 1022  -zsh
+ 1023  home
+ 1024  -zsh
+ 1025  ls
+ 1026  la
+ 1027  cat .bash_history
+ 1028  grep -H Setting /etc/bashrc /etc/profile ~/.bash_profile ~/.bashrc\n
+ 1029  touch .bashrc
+ 1030  -zsh
+ 1031  clear
+ 1032  locate
+ 1033  locate .bash_profile
+ 1034  locate -zsh
+ 1035  la
+ 1036  cat .zshrc.save
+ 1037  cat .zshrc.save.1
+ 1038  zsh
+ 1039  bash
+ 1040  brew install terminal
+ 1041  brew install iterm2
+ 1042  zsh
+ 1043  -zsh
+ 1044  brew install nerd-hack-font
+ 1045  brew install starship
+ 1046  arch -x86_64 brew install starship
+ 1047  vim .zshrc
+ 1048  source ~/.zshrc\n
+ 1049  ls
+ 1050  fzf
+ 1051  brew install fzf
+ 1052  vim .zshrc
+ 1053  source ~/.zshrc\n
+ 1054  archbrew install fzf
+ 1055  brew spotify
+ 1056  brew install spotify
+ 1057  clear
+ 1058  brew install fzf
+ 1059  brew install gh
+ 1060  archbrew install gh
+ 1061  source ~/.zshrc\n
+ 1062  archbrew install gh
+ 1063  archbrew install lazygit
+ 1064  cd Documents
+ 1065  ls
+ 1066  cd GitHub
+ 1067  ls
+ 1068  cd pokemon-repo
+ 1069  lazygit .
+ 1070  ls
+ 1071  lazygit
+ 1072  ls
+ 1073  cd Documents/GitHub
+ 1074  ls
+ 1075  clear
+ 1076  cd Documents
+ 1077  cd GitHub
+ 1078  ls
+ 1079  code pokemon-repo
+ 1080  clear
+ 1081  cc
+ 1082  code .
+ 1083  code ,
+ 1084  cd Desktop
+ 1085  cd Programs
+ 1086  ls
+ 1087  cd Lecture
+ 1088  ls
+ 1089  cd _091222
+ 1090  ls
+ 1091  code _091222.iml
+ 1092  defaults write com.apple.finder CreateDesktop false
+ 1093  killall Finder
+ 1094  history
+ 1095  cd Documents
+ 1096  cd GitHub
+ 1097  code pokemon-repo
+ 1098  clear
+ 1099  javac Exercise1.java
+ 1100  cd src
+ 1101  javac Exercise1.java
+ 1102  java Exercise1
+ 1103  clear
+ 1104  javac Exercise1.java
+ 1105  java Exercise1
+ 1106  javac Exercise1.java
+ 1107  java Testers
+ 1108  javac Exercise1.java
+ 1109  java Testers
+ 1110  clear
+ 1111  javac Exercise1.java
+ 1112  java Exercise1
+ 1113  javac Exercise1.java
+ 1114  java Exercise1
+ 1115  clear
+ 1116  javac Exercise1.java
+ 1117  java Exercise1
+ 1118  clear
+ 1119  javac Exercise1.java
+ 1120  java Exercise1
+ 1121  javac Exercise1.java
+ 1122  java Exercise1
+ 1123  javac Exercise1.java
+ 1124  java Exercise1
+ 1125  history
+ 1126  javac Exercise1.java
+ 1127  java Exercise1
+ 1128  clear
+ 1129  javac Exercise1.java
+ 1130  java Exercise1
+ 1131  javadoc Tweet.java
+ 1132  clear
+ 1133  javadoc Tweet.java
+ 1134  cd src
+ 1135  javac Practice1.java
+ 1136  java Practice1
+ 1137  javac Practice1.java
+ 1138  java Practice1
+ 1139  javac Practice1.java
+ 1140  java Practice1
+ 1141  javac Practice1.java
+ 1142  java Practice1
+ 1143  javac Practice1.java
+ 1144  java Practice1
+ 1145  javac Practice1.java
+ 1146  java Practice1
+ 1147  clear
+ 1148  javac Practice1.java
+ 1149  java Practice1
+ 1150  clear
+ 1151  javac Practice1.java
+ 1152  java Practice1
+ 1153  clear
+ 1154  javac Practice1.java
+ 1155  java Practice1
+ 1156  clear
+ 1157  javac Practice1.java
+ 1158  java Practice1
+ 1159  clear
+ 1160  javac Practice1.java
+ 1161  java Practice1
+ 1162  clear
+ 1163  javac Practice1.java
+ 1164  java Practice1
+ 1165  clear
+ 1166  javac Practice1.java
+ 1167  java Practice1
+ 1168  clear
+ 1169  javac Practice1.java
+ 1170  java Practice1
+ 1171  javac Practice1.java
+ 1172  java Practice1
+ 1173  javac Practice1.java
+ 1174  java Practice1
+ 1175  javac Practice1.java
+ 1176  java Practice1
+ 1177  javac Practice1.java
+ 1178  java Practice1
+ 1179  javac Practice1.java
+ 1180  java Practice1
+ 1181  javac Practice1.java
+ 1182  java Practice1
+ 1183  omz update
+ 1184  java -jar target/test.jar
+ 1185  /Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/bin/java ; exit;
+ 1186  cd Sort
+ 1187  cd src
+ 1188  javac Driver.java
+ 1189  java Driver
+ 1190  javac Driver.java
+ 1191  java Driver
+ 1192  javac Driver.java
+ 1193  java Driver
+ 1194  clear
+ 1195  java Driver
+ 1196  clear
+ 1197  javac Driver.java
+ 1198  java Driver
+ 1199  clear
+ 1200  javac Driver.java
+ 1201  java Driver
+ 1202  javac Driver
+ 1203  javac Driver.java
+ 1204  java Driver
+ 1205  clear
+ 1206  javac Driver.java
+ 1207  java Driver
+ 1208  javac Driver.java
+ 1209  java Driver
+ 1210  clear
+ 1211  javac Driver.java
+ 1212  java Driver
+ 1213  clear
+ 1214  javac Driver.java
+ 1215  java Driver
+ 1216  javac Driver.java
+ 1217  java Driver
+ 1218  clear
+ 1219  javac Driver.java
+ 1220  java Driver
+ 1221  javac Driver.java
+ 1222  java Driver
+ 1223  javac Driver.java
+ 1224  java Driver
+ 1225  javac Driver.java
+ 1226  java Driver
+ 1227  javac Driver.java
+ 1228  java Driver
+ 1229  javac Driver.java
+ 1230  java Driver
+ 1231  javac Driver.java
+ 1232  java Driver
+ 1233  javac Driver.java
+ 1234  java Driver
+ 1235  /tmp/open-smapi-terminal.sh ; exit;
+ 1236  cd "/Users/paulaenxi/Desktop/DLSU/Term 2/CCDSTRU/MP/" && gcc MP_S11.9_DesiderioPachecoReyes.c -o MP_S11.9_DesiderioPachecoReyes && "/Users/paulaenxi/Desktop/DLSU/Term 2/CCDSTRU/MP/"MP_S11.9_DesiderioPachecoReyes
+ 1237  d "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1238  /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/paulaenxi/Documents/GitHub/MyFarm/bin Driver 
+ 1239  clear
+ 1240  cd "/Users/paulaenxi/Desktop/Tester/" && javac Driver.java && java Driver
+ 1241  clear
+ 1242  /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/paulaenxi/Library/Application\ Support/Code/User/workspaceStorage/941232a76d7bc291ca41e7d8bf4b44ad/redhat.java/jdt_ws/Tester_1ef29c24/bin Driver 
+ 1243  /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/paulaenxi/Documents/GitHub/MyFarm/bin Driver 
+ 1244  clear
+ 1245  ckear
+ 1246  d "/Users/paulaenxi/Downloads/Aaron/src/tools/" && javac Fertilizer.java && java Fertilizer
+ 1247  cd "/Users/paulaenxi/Downloads/Aaron/src/main/" && javac App.java && java App
+ 1248  /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/paulaenxi/Downloads/Aaron/bin main.App 
+ 1249  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1250  clear
+ 1251  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1252  clear
+ 1253  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1254  clear
+ 1255  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1256  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1257  clear
+ 1258  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1259  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1260  clear
+ 1261  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1262  clear
+ 1263  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1264  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1265  clear
+ 1266  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1267  clear
+ 1268  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1269  clear
+ 1270  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1271  clear
+ 1272  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1273  clear
+ 1274  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1275  clear
+ 1276  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1277  d "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1278  clear
+ 1279  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1280  clear
+ 1281  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1282  clear
+ 1283  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1284  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1285  clear
+ 1286  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1287  clear
+ 1288  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1289  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1290  clear
+ 1291  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1292  clear
+ 1293  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Tile.java && java Tile
+ 1294  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1295  clear
+ 1296  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1297  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Tile.java && java Tile
+ 1298  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1299  clear
+ 1300  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Tile.java && java Tile
+ 1301  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1302  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Plow.java && java Plow
+ 1303  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1304  clear
+ 1305  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1306  d "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1307  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1308  d "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1309  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1310  d "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1311  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1312  javac Driver.java
+ 1313  java Driver
+ 1314  clear
+ 1315  java Driver
+ 1316  /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/paulaenxi/Downloads/Aaron/bin main.App 
+ 1317  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1318  clear
+ 1319  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1320  clear
+ 1321  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1322  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1323  clear
+ 1324  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1325  javac Driver.java
+ 1326  java Driver
+ 1327  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1328  javac -d bin Driver.java
+ 1329  ls
+ 1330  cd src
+ 1331  ls
+ 1332  clear
+ 1333  javac -d bin Driver.java
+ 1334  java Driver
+ 1335  ls
+ 1336  cd ..
+ 1337  cd bin
+ 1338  java Driver
+ 1339  d "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Tile.java && java Tile
+ 1340  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Tile.java && java Tile
+ 1341  clear
+ 1342  cd src
+ 1343  javac Driver.java
+ 1344  java Driver
+ 1345  clear
+ 1346  javac Driver.java
+ 1347  java Driver
+ 1348  clear
+ 1349  javac Driver.java
+ 1350  java Driver
+ 1351  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1352  clear
+ 1353  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Farmer.java && java Farmer
+ 1354  clear
+ 1355  javac Driver.java
+ 1356  java Driver
+ 1357  clear
+ 1358  javac Driver.java
+ 1359  java Driver
+ 1360  clear
+ 1361  javac Driver.java
+ 1362  java Driver
+ 1363  clear
+ 1364  javac Driver.java
+ 1365  java Driver
+ 1366  clear
+ 1367  javac Driver.java
+ 1368  java Driver
+ 1369  clear
+ 1370  javac Driver.java
+ 1371  java Driver
+ 1372  clear
+ 1373  javac Driver.java
+ 1374  java Driver
+ 1375  clear
+ 1376  javac Driver.java
+ 1377  java Driver
+ 1378  clear
+ 1379  javac Driver.java
+ 1380  java Driver
+ 1381  clear
+ 1382  javac Driver.java
+ 1383  java Driver
+ 1384  clear
+ 1385  javac Driver.java
+ 1386  java Driver
+ 1387  clear
+ 1388  javac Driver.java
+ 1389  java Driver
+ 1390  clear
+ 1391  javac Driver.java
+ 1392  java Driver
+ 1393  clear
+ 1394  javac Driver.java
+ 1395  java Driver
+ 1396  clear
+ 1397  javac Driver.java
+ 1398  java Driver
+ 1399  clear
+ 1400  javac Driver.java
+ 1401  java Driver
+ 1402  clear
+ 1403  javac Driver.java
+ 1404  java Driver
+ 1405  clear
+ 1406  javac Driver.java
+ 1407  java Driver
+ 1408  clear
+ 1409  javac Driver.java
+ 1410  java Driver
+ 1411  clear
+ 1412  javac Driver.java
+ 1413  java Driver
+ 1414  clear
+ 1415  javac Driver.java
+ 1416  java Driver
+ 1417  clear
+ 1418  javac Driver.java
+ 1419  java Driver
+ 1420  clear
+ 1421  javac Driver.java
+ 1422  java Driver
+ 1423  clear
+ 1424  javac Driver.java
+ 1425  java Driver
+ 1426  clear
+ 1427  javac Driver.java
+ 1428  java Driver
+ 1429  clear
+ 1430  javac Driver.java
+ 1431  java Driver
+ 1432  clear
+ 1433  javac Driver.java
+ 1434  java Driver
+ 1435  clear
+ 1436  javac Driver.java
+ 1437  java Driver
+ 1438  clear
+ 1439  javac Driver.java
+ 1440  clear
+ 1441  javac Driver.java
+ 1442  clear
+ 1443  javac Driver.java
+ 1444  java Driver
+ 1445  clear
+ 1446  javac Driver.java
+ 1447  java Driver
+ 1448  clear
+ 1449  javac Driver.java
+ 1450  java Driver
+ 1451  clear
+ 1452  javac Driver.java
+ 1453  clear
+ 1454  javac Driver.java
+ 1455  java Driver
+ 1456  clear
+ 1457  javac Driver.java
+ 1458  java Driver
+ 1459  clear
+ 1460  javac Driver.java
+ 1461  java Driver
+ 1462  clear
+ 1463  javac Driver.java
+ 1464  java Driver
+ 1465  clear
+ 1466  javac Driver.java
+ 1467  java Driver
+ 1468  cd "/Users/paulaenxi/Downloads/Prototype/src/" && javac Driver.java && java Driver
+ 1469  clear
+ 1470  javac Driver.java
+ 1471  java Driver
+ 1472  clear
+ 1473  javac Driver.java
+ 1474  java Driver
+ 1475  clear
+ 1476  javac Driver.java
+ 1477  java Driver
+ 1478  javac Driver.java
+ 1479  java Driver
+ 1480  clear
+ 1481  javac Driver.java
+ 1482  java Driver
+ 1483  clear
+ 1484  javac Driver.java
+ 1485  java Driver
+ 1486  clear
+ 1487  javac Driver.java
+ 1488  java Driver
+ 1489  clear
+ 1490  javac Driver.java
+ 1491  java Driver
+ 1492  clear
+ 1493  javac Driver.java
+ 1494  java Driver
+ 1495  clear
+ 1496  javac Driver.java
+ 1497  java Driver
+ 1498  cd "/Users/paulaenxi/Downloads/MCO_Base/" && javac Application.java && java Application
+ 1499  cd src
+ 1500  javac Driver.java
+ 1501  java Driver
+ 1502  clear
+ 1503  javac Driver.java
+ 1504  java Driver
+ 1505  clear
+ 1506  javac Driver.java
+ 1507  java Driver
+ 1508  clear
+ 1509  javac Driver.java
+ 1510  java Driver
+ 1511  clear
+ 1512  javac Driver.java
+ 1513  java Driver
+ 1514  clear
+ 1515  javac Driver.java
+ 1516  java Driver
+ 1517  clear
+ 1518  javac Driver.java
+ 1519  java Driver
+ 1520  cd src
+ 1521  javac Driver.java
+ 1522  java Driver
+ 1523  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1524  clear
+ 1525  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1526  clear
+ 1527  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1528  clear
+ 1529  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1530  clear
+ 1531  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1532  clear
+ 1533  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1534  clear
+ 1535  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1536  clear
+ 1537  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1538  clear
+ 1539  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1540  clear
+ 1541  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1542  clear
+ 1543  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1544  clear
+ 1545  javac Driver.java
+ 1546  java Driver
+ 1547  cd src
+ 1548  javac Driver.java
+ 1549  java Driver
+ 1550  clear
+ 1551  javac Driver.java
+ 1552  java Driver
+ 1553  clear
+ 1554  javac Driver.java
+ 1555  java Driver
+ 1556  clear
+ 1557  javac Driver.java
+ 1558  java Driver
+ 1559  javac Driver.java
+ 1560  java Driver
+ 1561  clear
+ 1562  java Driver
+ 1563  clear
+ 1564  javac Driver.java
+ 1565  java Driver
+ 1566  clear
+ 1567  javac Driver.java
+ 1568  java Driver
+ 1569  clear
+ 1570  javac Driver.java
+ 1571  java Driver
+ 1572  clear
+ 1573  javac Driver.java
+ 1574  java Driver
+ 1575  clear
+ 1576  javac Driver.java
+ 1577  java Driver
+ 1578  clear
+ 1579  javac Driver.java
+ 1580  java Driver
+ 1581  clear
+ 1582  javac Driver.java
+ 1583  java Driver
+ 1584  javac Driver.java
+ 1585  java Driver
+ 1586  clear
+ 1587  javac Driver.java
+ 1588  java Driver
+ 1589  clear
+ 1590  javac Driver.java
+ 1591  java Driver
+ 1592  clear
+ 1593  javac Driver.java
+ 1594  java Driver
+ 1595  clear
+ 1596  javac Driver.java
+ 1597  java Driver
+ 1598  clear
+ 1599  javac Driver.java
+ 1600  java Driver
+ 1601  clear
+ 1602  javac Driver.java
+ 1603  java Driver
+ 1604  clear
+ 1605  javac Driver.java
+ 1606  java Driver
+ 1607  clear
+ 1608  java Driver
+ 1609  clear
+ 1610  java Driver
+ 1611  clear
+ 1612  javac Driver.java
+ 1613  java Driver
+ 1614  clear
+ 1615  javac Driver.java
+ 1616  java Driver
+ 1617  clear
+ 1618  javac Driver.java
+ 1619  java Driver
+ 1620  clear
+ 1621  javac Driver.java
+ 1622  java Driver
+ 1623  clear
+ 1624  javac Driver.java
+ 1625  java Driver
+ 1626  clear
+ 1627  javac Driver.java
+ 1628  java Driver
+ 1629  clear
+ 1630  javac Driver.java
+ 1631  java Driver
+ 1632  clear
+ 1633  javac Driver.java
+ 1634  clear
+ 1635  javac Driver.java
+ 1636  java Driver
+ 1637  clear
+ 1638  javac Driver.java
+ 1639  java Driver
+ 1640  clear
+ 1641  javac Driver.java
+ 1642  java Driver
+ 1643  clear
+ 1644  java Driver
+ 1645  clear
+ 1646  javac Driver.java
+ 1647  java Driver
+ 1648  clear
+ 1649  java Driver
+ 1650  clear
+ 1651  java Driver
+ 1652  javac Driver.java
+ 1653  java Driver
+ 1654  clear
+ 1655  javac Driver.java
+ 1656  java Driver
+ 1657  clear
+ 1658  javac Driver.java
+ 1659  java Driver
+ 1660  clear
+ 1661  javac Driver.java
+ 1662  java Driver
+ 1663  clear
+ 1664  javac Driver.java
+ 1665  java Driver
+ 1666  clear
+ 1667  javac Driver.java
+ 1668  java Driver
+ 1669  clear
+ 1670  javac Driver.java
+ 1671  java Driver
+ 1672  clear
+ 1673  javac Driver.java
+ 1674  java Driver
+ 1675  clear
+ 1676  javac Driver.java
+ 1677  javadoc Driver
+ 1678  clear
+ 1679  javadoc Driver.java
+ 1680  cd src
+ 1681  javac Driver.java
+ 1682  java Driver
+ 1683  clear
+ 1684  javac Driver.java
+ 1685  java Driver
+ 1686  clear
+ 1687  javac Driver.java
+ 1688  java Driver
+ 1689  javac Driver.java
+ 1690  java Driver
+ 1691  javac Driver.java
+ 1692  java Driver
+ 1693  cd src
+ 1694  javac Driver.java
+ 1695  java Driver
+ 1696  clear
+ 1697  javac Driver.java
+ 1698  java Driver
+ 1699  clear
+ 1700  javac Driver.java
+ 1701  java Driver
+ 1702  clear
+ 1703  javac Driver.java
+ 1704  java Driver
+ 1705  clear
+ 1706  javac Driver.java
+ 1707  clear
+ 1708  javac Driver.java
+ 1709  java Driver
+ 1710  clear
+ 1711  javac Driver.java
+ 1712  java Driver
+ 1713  cd src
+ 1714  javac Driver.java
+ 1715  java Driver
+ 1716  cd src
+ 1717  javac Driver.java
+ 1718  java Driver
+ 1719  javac Driver.java
+ 1720  cd src
+ 1721  javac Driver.java
+ 1722  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1723  cd src
+ 1724  javac Driver.java
+ 1725  java Driver
+ 1726  clear
+ 1727  javac Driver.java
+ 1728  java Driver
+ 1729  clear
+ 1730  javac Driver.java
+ 1731  java Driver
+ 1732  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 1733  clear
+ 1734  javac Driver.java
+ 1735  clear
+ 1736  java Driver
+ 1737  clear
+ 1738  java Driver
+ 1739  clear
+ 1740  java Driver
+ 1741  clear
+ 1742  java Driver
+ 1743  javac Main.java
+ 1744  java Main
+ 1745  clear
+ 1746  javac Main.java
+ 1747  java Main
+ 1748  clear
+ 1749  javac Main.java
+ 1750  java Main
+ 1751  clear
+ 1752  javac Main.java
+ 1753  java Main
+ 1754  clear
+ 1755  javac Main.java
+ 1756  java Main
+ 1757  clear
+ 1758  javac Main.java
+ 1759  java Main
+ 1760  ython -u "/Users/paulaenxi/Documents/GitHub/CCDSALG_MCO2/BinarySearchTree.ipynb"
+ 1761  omz update
+ 1762  python -u "/Users/paulaenxi/Documents/GitHub/CCDSALG_MCO2/GenerateKmers.ipynb"
+ 1763  cd "/Users/paulaenxi/Desktop/Programs/Practice/Practice10/" && javac Main.java && java Main
+ 1764  cd "/Users/paulaenxi/Desktop/possol/" && javac Main.java && java Main
+ 1765  cd "/Users/paulaenxi/Desktop/Programs/Practice/Practice10/" && javac Main.java && java Main
+ 1766  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Inventory.java && java Inventory
+ 1767  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1768  clear
+ 1769  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1770  clear
+ 1771  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Inventory.java && java Inventory
+ 1772  clear
+ 1773  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1774  clear
+ 1775  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1776  clear
+ 1777  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1778  clear
+ 1779  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1780  clear
+ 1781  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1782  clear
+ 1783  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Inventory.java && java Inventory
+ 1784  clear
+ 1785  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1786  clear
+ 1787  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1788  clear
+ 1789  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1790  clear
+ 1791  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1792  clear
+ 1793  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1794  clear
+ 1795  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1796  clear
+ 1797  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Inventory.java && java Inventory
+ 1798  clear
+ 1799  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1800  clear
+ 1801  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1802  CLEAR
+ 1803  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1804  clear
+ 1805  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1806  clear
+ 1807  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1808  clear
+ 1809  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1810  clear
+ 1811  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Inventory.java && java Inventory
+ 1812  clear
+ 1813  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1814  clear
+ 1815  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1816  clear
+ 1817  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1818  clear
+ 1819  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1820  clear
+ 1821  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1822  clear
+ 1823  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1824  clear
+ 1825  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1826  clear
+ 1827  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1828  clear
+ 1829  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1830  clear
+ 1831  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1832  clear
+ 1833  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1834  clear
+ 1835  cd "/Users/paulaenxi/Desktop/Programs/Excercise/Exercise7/" && javac Main.java && java Main
+ 1836  javac Main.java
+ 1837  java Main
+ 1838  clear
+ 1839  javac Main.java
+ 1840  java Main
+ 1841  clear
+ 1842  javac Main.java
+ 1843  java Main
+ 1844  javac Main.java && java Main
+ 1845  clear
+ 1846  javac Main.java && java Main
+ 1847  clear
+ 1848  javac Main.java && java Main
+ 1849  clear
+ 1850  javac Main.java && java Main
+ 1851  clear
+ 1852  javac Main.java && java Main
+ 1853  clear
+ 1854  javac Main.java && java Main
+ 1855  clear
+ 1856  javac Main.java && java Main
+ 1857  clear
+ 1858  javac Main.java && java Main
+ 1859  clear
+ 1860  javac Main.java && java Main
+ 1861  clear
+ 1862  javac Main.java && java Main
+ 1863  clear
+ 1864  javac Main.java && java Main
+ 1865  clear
+ 1866  javac Main.java && java Main
+ 1867  clear
+ 1868  javac Main.java && java Main
+ 1869  clear
+ 1870  javac Main.java && java Main
+ 1871  clear
+ 1872  javac Main.java && java Main
+ 1873  clear
+ 1874  javac Main.java && java Main
+ 1875  python -u "/Users/paulaenxi/Documents/GitHub/CCDSALG_MCO2/BinarySearchTree.ipynb"
+ 1876  \npip install tabulate
+ 1877  clear
+ 1878  cd
+ 1879  ls
+ 1880  cd Desktop
+ 1881  cd ..
+ 1882  cd Library
+ 1883  ls
+ 1884  clear
+ 1885  ls
+ 1886  pip install tabulate --user
+ 1887  clear
+ 1888  pip install tabulate
+ 1889  python -m pip install tabulate
+ 1890  pip install tabulate
+ 1891  python -m pip install tabulate
+ 1892  sudo pip3 install tabulate
+ 1893  clear
+ 1894  /usr/bin/python3 -m pip install -U autopep8
+ 1895  clear
+ 1896  pip install -r requirements.txt
+ 1897  sudo pip install -r requirements.txt
+ 1898  pip
+ 1899  pip3
+ 1900  pip3 install -r requirements.txt
+ 1901  /Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip
+ 1902  sudo apt-get install openjfx
+ 1903  sudo apt-get install openjdk-8-jre
+ 1904  sudo apt-get install openjfx
+ 1905  ls
+ 1906  cd Java
+ 1907  cd JavaVirtualMachines
+ 1908  ls
+ 1909  cd ..
+ 1910  ls
+ 1911  cd Library
+ 1912  cd Java
+ 1913  cd JavaVirtualMachines
+ 1914  ls
+ 1915  rm -rf liberica-jdk-19.jdk
+ 1916  clear
+ 1917  echo $JAVA_HOME
+ 1918  /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home
+ 1919  Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home
+ 1920  cd Libraru
+ 1921  cd Library
+ 1922  cd Java
+ 1923  cd JavaVirtualMachiens
+ 1924  cd JavaVirtualMachines
+ 1925  clear
+ 1926  cd jdk1.8.0_45.jdk
+ 1927  ls
+ 1928  git clone https://github.com/dykstrom/mazela-man.git
+ 1929  unzip apache-maven-3.8.6-bin.zip
+ 1930  ls
+ 1931  cd Downloads
+ 1932  unzip apache-maven-3.8.6-bin.zip
+ 1933  clear
+ 1934  mvn --version
+ 1935  tar xzvf apache-maven-3.8.6-bin.tar.gz\n
+ 1936  clear
+ 1937  unzip apache-maven-3.8.6-bin.zip
+ 1938  cd Downloads
+ 1939  unzip apache-maven-3.8.6-bin.zip
+ 1940  mvn -v
+ 1941  export PATH=/opt/apache-maven-3.8.6/bin:$PATH
+ 1942  mvn -v
+ 1943  clear
+ 1944  echo $JAVA_HOME
+ 1945  /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home
+ 1946  cd /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home
+ 1947  cd Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home
+ 1948  clear
+ 1949  mvn --version
+ 1950  clear
+ 1951  cd Library
+ 1952  cd Java
+ 1953  cd JavaVirtualMachines
+ 1954  cd jdk1.8.0_45.jdk
+ 1955  ls
+ 1956  cd liberica-19.0.1
+ 1957  cd Contents
+ 1958  ls
+ 1959  cd bin
+ 1960  ls
+ 1961  cd ..
+ 1962  clear
+ 1963  echo $JAVA_HOME
+ 1964  ls
+ 1965  clear
+ 1966  cd "/Users/paulaenxi/Desktop/Programs/GUI/TestRun/mazela-man/00-introduction/src/main/java/se/mejsla/vassare/fxgl/mazelaman/" && javac MazelaManApp.java && java MazelaManApp
+ 1967  git clone https://github.com/dykstrom/mazela-man.git
+ 1968  mvn compile
+ 1969  clear
+ 1970  mvn install
+ 1971  clear
+ 1972  java -version
+ 1973  clear
+ 1974  pip install -r requirements.txt
+ 1975  pip3 install -r requirement.txt
+ 1976  pip3 install -r requirements.txt
+ 1977  clear
+ 1978  pip3 install -r requirements.txt
+ 1979  ckear
+ 1980  clear
+ 1981  exec -arch -arm64 zsh
+ 1982  siomairice
+ 1983  clear
+ 1984  exec arch -arm64 zsh
+ 1985  arch -arm64
+ 1986  arch -arm64 python3 HashingTable.ipynb
+ 1987  arch -arm64
+ 1988  clear
+ 1989  pip3 uninstall lxml
+ 1990  pip install --no-binary lxml lxml
+ 1991  pip3 install --no-binary lxml lxml
+ 1992  python -u "/Users/paulaenxi/Documents/GitHub/MachineSearching/GenerateKmers.py"
+ 1993  clear
+ 1994  python -u "/Users/paulaenxi/Documents/GitHub/MachineSearching/GenerateKmers.py"
+ 1995  /usr/bin/python3 /Users/paulaenxi/Documents/GitHub/MachineSearching/GenerateKmers.py
+ 1996  locate libdgl.dylib
+ 1997  python --version
+ 1998  arch
+ 1999  python --version
+ 2000  pip3 --version
+ 2001  python3 HashingTable.ipynb runserver
+ 2002  clear
+ 2003  arch
+ 2004  pip uninstall 
+ 2005  pip3 uninstall
+ 2006  pip help uninstall
+ 2007  pip3 help unintsall
+ 2008  pip3 help uninstall
+ 2009  pip3 install mh3
+ 2010  pip3 install mmh3
+ 2011  pip3 uninstall mmh3
+ 2012  pip3 install mmh3
+ 2013  /usr/bin/python3 /Users/paulaenxi/Documents/GitHub/MachineSearching/HashingTable.py
+ 2014  clear
+ 2015  pip3 HashingTable.py
+ 2016  python HashingTable.py
+ 2017  cls
+ 2018  clear
+ 2019  python
+ 2020  py
+ 2021  python3 HashingTable.py
+ 2022  pip3 install mmh3
+ 2023  python3 HashingTable.py
+ 2024  pip3 install metrohash
+ 2025  python3 HashingTable.py
+ 2026  pip3 install tabulate
+ 2027  python3 HashingTable.py
+ 2028  clear
+ 2029  import metrohash
+ 2030  pip3 import metrohash
+ 2031  pip3 install metrohash
+ 2032  pip3 install --upgrade.pip
+ 2033  pip3 install -upgrade pip
+ 2034  clear
+ 2035  python3 HashingTable.py
+ 2036  clear
+ 2037  python3 HashingTable.py
+ 2038  clear
+ 2039  python3 GenerateKmers.py
+ 2040  /usr/bin/python3 /Users/paulaenxi/Documents/GitHub/MachineSearching/HashingTable.py
+ 2041  clear
+ 2042  python3 HashingTable.py
+ 2043  clear
+ 2044  /usr/bin/python3 /Users/paulaenxi/Documents/GitHub/MachineSearching/HashingTable.py
+ 2045  pip3 install -r requirements.txt
+ 2046  pip3 install --upgrade pip
+ 2047  python3 HashingTable.py
+ 2048  clear
+ 2049  /usr/bin/python3 /Users/paulaenxi/Documents/GitHub/MachineSearching/HashingTable.py
+ 2050  history
+ 2051  pip3 uninstall metrohash
+ 2052  pip3 install metrohash
+ 2053  arm
+ 2054  arc
+ 2055  arh
+ 2056  arch
+ 2057  clear
+ 2058  history
+ 2059  pip3 import metrohash
+ 2060  pip3 install metrohash
+ 2061  clear
+ 2062  history
+ 2063  6  arch -arm64 python3 HashingTable.ipynb
+ 2064  arch -arm64 python3 HashingTable.py
+ 2065  clear
+ 2066  pip3 install mmh3
+ 2067  pip3 uninstall mmh3
+ 2068  pip3 uninstall metrohash 
+ 2069  clear
+ 2070  pip3 install mmh3
+ 2071  pip3 install metrohash
+ 2072  clear
+ 2073  file /bin/bash
+ 2074  python3 -intel64
+ 2075  clear
+ 2076  python3 -intel64
+ 2077  clear
+ 2078  pip3 uninstall mmh3
+ 2079  pip3 uninstall metrohash
+ 2080  clear
+ 2081  arch -arm64 pip3 install mmh3
+ 2082  arch -arm64 pip3 install metrohash
+ 2083  clear
+ 2084  history
+ 2085  pip uninstall lxml
+ 2086  ARCHFLAGS="-arch arm64" pip install lxml --compile --no-cache-dir
+ 2087  cmake -DCMAKE_OSX_ARCHITECTURES=arm64 -DUSE_OPENMP=off -DCMAKE_C_FLAGS='-DXBYAK_DONT_USE_MAP_JIT' -DCMAKE_CXX_FLAGS='-DXBYAK_DONT_USE_MAP_JIT' -DUSE_AVX=OFF -DUSE_LIBXSMM=OFF .. 
+ 2088  cmake -DCMAKE_OSX_ARCHITECTURES=arm64 -DUSE_OPENMP=off -DCMAKE_C_FLAGS='-DXBYAK_DONT_USE_MAP_JIT' -DCMAKE_CXX_FLAGS='-DXBYAK_DONT_USE_MAP_JIT' -DUSE_AVX=OFF -DUSE_LIBXSMM=OFF 
+ 2089  clear
+ 2090  cmake -DCMAKE_OSX_ARCHITECTURES=arm64 -DUSE_OPENMP=off -DCMAKE_C_FLAGS='-DXBYAK_DONT_USE_MAP_JIT' -DCMAKE_CXX_FLAGS='-DXBYAK_DONT_USE_MAP_JIT' -DUSE_AVX=OFF -DUSE_LIBXSMM=OFF ..
+ 2091  python -c 'import dgl; print(dgl.__version__)'
+ 2092  python3 -c 'import dgl; print(dgl.__version__)'
+ 2093  install dgl
+ 2094  python3 -c 'import dgl; print(dgl.__version__)'
+ 2095  arch -arm64 brew install llvm
+ 2096  clear
+ 2097  brew uninstall llvm
+ 2098  arch -x86_64 /usr/local/homebrew/bin/brew install llvm
+ 2099  clear
+ 2100  conda update juphyter
+ 2101  pip install -U juphyter
+ 2102  pip install -U jupyter
+ 2103  brew install conda
+ 2104  pip3 install metrohas
+ 2105  pip3 install metrohash
+ 2106  pip install conda
+ 2107  pip3 install conda
+ 2108  brew install conda
+ 2109  /usr/local/bin/python3 Untitled-1
+ 2110  /usr/local/bin/python3 -m pip install -U autopep8
+ 2111  python -u "/Users/paulaenxi/Documents/GitHub/MachineSearching/HashingTable.ipynb"
+ 2112  python
+ 2113  /usr/local/bin/python3 /Users/paulaenxi/Documents/GitHub/MachineSearching/test.py
+ 2114  python -u "/Users/paulaenxi/Documents/GitHub/MachineSearching/HashingTable.ipynb"
+ 2115  pip uninstall metrohasg
+ 2116  pip uninstall metrohash
+ 2117  pwd
+ 2118  cd ..
+ 2119  pwd
+ 2120  cd
+ 2121  dir
+ 2122  ls
+ 2123  pwd
+ 2124  cd ..
+ 2125  pwd
+ 2126  cd ..
+ 2127  ls
+ 2128  cd Library
+ 2129  ls
+ 2130  pip uninstall python
+ 2131  python -u "/Users/paulaenxi/Documents/GitHub/MachineSearching/HashingTable.ipynb"
+ 2132  python -version
+ 2133  python --version
+ 2134  pwd
+ 2135  python -v
+ 2136  pip uninstall mmh3
+ 2137  pip install mmh3
+ 2138  python -v
+ 2139  pip install mmh3
+ 2140  python3 -v
+ 2141  pip
+ 2142  pip3
+ 2143  pip3 install mmh3
+ 2144  pip3 install metrohash
+ 2145  import tabulate
+ 2146  pip3 install tabulate
+ 2147  python -u "/Users/paulaenxi/Documents/GitHub/MachineSearching/HashingTable.ipynb"
+ 2148  python3.11 -m pip install ipykernel
+ 2149  pip install ipykernel
+ 2150  pip3 install ipykernel
+ 2151  python -u "/Users/paulaenxi/Documents/GitHub/MachineSearching/HashingTable.ipynb"
+ 2152  python3 -u "/Users/paulaenxi/Documents/GitHub/MachineSearching/HashingTable.ipynb"
+ 2153  pwd
+ 2154  python3 test.py
+ 2155  clear
+ 2156  pip3 install jupyter
+ 2157  pip3 install nbconvert
+ 2158  pip3 nbconvert BinarySearchTree.ipynb --to python
+ 2159  jupyter nbconvert BinarySearchTree.ipynb --to python
+ 2160  jupyter nbconvert HashingTable.ipynb --to python
+ 2161  clear
+ 2162  /usr/local/bin/python3 /Users/paulaenxi/Documents/GitHub/MachineSearching/KmerDistribution.py
+ 2163  clear
+ 2164  python3 KmerDistributor.py
+ 2165  clear
+ 2166  python3 KmerDistribution.py
+ 2167  clear
+ 2168  python3 KmerDistribution.py
+ 2169  clear
+ 2170  python3 KmerDistribution.py
+ 2171  clear
+ 2172  python3 KmerDistribution.py
+ 2173  clear
+ 2174  python3 KmerDistribution.py
+ 2175  clear
+ 2176  python3 KmerDistribution.py
+ 2177  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 2178  clear
+ 2179  scd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 2180  clear
+ 2181  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 2182  mvn javafx:run
+ 2183  install mvn
+ 2184  mvn javafx run
+ 2185  cd "/Users/paulaenxi/Desktop/Programs/MVC Example/" && javac Main.java && java Main
+ 2186  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 2187  clear
+ 2188  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 2189  cd "/Users/paulaenxi/Desktop/Programs/MyFarm/myfarm-repo/" && javac Main.java && java Main
+ 2190  cd "/Users/paulaenxi/Documents/GitHub/MyFarm/src/" && javac Driver.java && java Driver
+ 2191  javadoc Main.javaa
+ 2192  javadoc Main.java
+ 2193  cd MCO1_CCPROG3_LIM_TAN
+ 2194  javac Controller.java
+ 2195  java Controller
+ 2196  clear
+ 2197  install.packages("languageserver")
+ 2198  defaults write org.R-project.R force.LANG en_US.UTF-8
+ 2199  system("defaults write org.R-project.R force.LANG en_US.UTF-8")
+ 2200  history
+ 2201  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSADPRG/Programs/" && gcc prove.c -o prove && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSADPRG/Programs/"prove
+ 2202  clear
+ 2203  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSADPRG/Programs/" && gcc prove.c -o prove && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSADPRG/Programs/"prove
+ 2204  rm -rf ~/Library/PreferencePanes/My*\nsudo rm /usr/local/mysql\nsudo rm -rf /usr/local/mysql*\nsudo rm -rf /Library/StartupItems/MySQLCOM\nsudo rm -rf /Library/PreferencePanes/My*\nsudo rm -rf /Library/Receipts/mysql*\nsudo rm -rf /Library/Receipts/MySQL*\nsudo rm -rf /private/var/db/receipts/*mysql*\nsudo rm /Library/LaunchDaemons/com.oracle.oss.mysql.mysqld.plist\nedit /etc/hostconfig and remove the line MYSQLCOM=-YES-
+ 2205  sudo /usr/local/mysql/support-files/mysql.server start
+ 2206  /usr/local/mysql/bin/mysql -v
+ 2207  mysql.server restart
+ 2208  mysqldump
+ 2209  brew remove mysql\nbrew cleanup
+ 2210  sudo rm /usr/local/mysql\nsudo rm -rf /usr/local/var/mysql\nsudo rm -rf /usr/local/mysql*\nsudo rm ~/Library/LaunchAgents/homebrew.mxcl.mysql.plist\nsudo rm -rf /Library/StartupItems/MySQLCOM\nsudo rm -rf /Library/PreferencePanes/My*
+ 2211  brew remove mysql
+ 2212  rm -rf /opt/homebrew/var/mysql
+ 2213  brew install mysql
+ 2214  cd MCO1_CCPROG3_LIM_TAN
+ 2215  javac Controller.java
+ 2216  java Controller
+ 2217  cd "/Users/paulaenxi/Desktop/DLSU/Term 3/CCPROG3/Programs/MyFarm/" && javac Main.java && java Main
+ 2218  cd "/Users/paulaenxi/Desktop/DLSU/Term 3/CCPROG3/Programs/GUI/SimpleGUI/src/" && javac tempCodeRunnerFile.java && java tempCodeRunnerFile
+ 2219  cd "/Users/paulaenxi/Documents/GitHub/mazebot-repo/" && javac Controller.java && java Controller
+ 2220  cd "/Users/paulaenxi/Documents/GitHub/mazebot-repo/" && javac View.java && java View
+ 2221  cd "/Users/paulaenxi/Documents/GitHub/mazebot-repo/" && javac Controller.java && java Controller
+ 2222  cd "/Users/paulaenxi/Documents/GitHub/mazebot-repo/" && javac View.java && java View
+ 2223  cd "/Users/paulaenxi/Documents/GitHub/mazebot-repo/" && javac Controller.java && java Controller
+ 2224  cd "/Users/paulaenxi/Documents/GitHub/mazebot-repo/" && javac View.java && java View
+ 2225  cd "/Users/paulaenxi/Documents/GitHub/mazebot-repo/" && javac Controller.java && java Controller
+ 2226  cd "/Users/paulaenxi/Documents/GitHub/mazebot-repo/" && javac ComboBoxDemo.java && java ComboBoxDemo
+ 2227  cd "/Users/paulaenxi/Documents/GitHub/mazebot-repo/" && javac Controller.java && java Controller
+ 2228  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2229  javac Controller.java
+ 2230  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2231  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac tempCodeRunnerFile.java && java tempCodeRunnerFile
+ 2232  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2233  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac View.java && java View
+ 2234  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2235  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac View.java && java View
+ 2236  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2237  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac View.java && java View
+ 2238  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2239  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac View.java && java View
+ 2240  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2241  cd "/Users/paulaenxi/Downloads/Maze-Game-master/src/app/" && javac tempCodeRunnerFile.java && java tempCodeRunnerFile
+ 2242  cd "/Users/paulaenxi/Downloads/Maze-Game-master/src/app/" && javac MazeGUI.java && java MazeGUI
+ 2243  cd "/Users/paulaenxi/Downloads/Maze-Game-master/src/app/" && javac MazePanel.java && java MazePanel
+ 2244  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac MazeApp.java && java MazeApp
+ 2245  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2246  cd "/Users/paulaenxi/Downloads/mazebot-test-main/" && javac Driver.java && java Driver
+ 2247  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2248  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Test.java && java Test
+ 2249  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac tempCodeRunnerFile.java && java tempCodeRunnerFile
+ 2250  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Test.java && java Test
+ 2251  clear
+ 2252  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Test.java && java Test
+ 2253  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Maze.java && java Maze
+ 2254  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac View.java && java View
+ 2255  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2256  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Test.java && java Test
+ 2257  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2258  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac View.java && java View
+ 2259  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2260  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Test.java && java Test
+ 2261  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2262  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac View.java && java View
+ 2263  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2264  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Array.java && java Array
+ 2265  clear
+ 2266  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Array.java && java Array
+ 2267  clear
+ 2268  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Array.java && java Array
+ 2269  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2270  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac View.java && java View
+ 2271  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2272  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac View.java && java View
+ 2273  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2274  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac View.java && java View
+ 2275  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2276  cd "/Users/paulaenxi/Desktop/Test/" && javac Controller.java && java Controller
+ 2277  python -u "/Users/paulaenxi/Desktop/HackerRank/Fools/anagram.py"
+ 2278  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/anagram.py
+ 2279  python -u "/Users/paulaenxi/Desktop/HackerRank/Fools/tempCodeRunnerFile.py"
+ 2280  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/anagram.py
+ 2281  clear
+ 2282  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/anagram.py
+ 2283  python -u "/Users/paulaenxi/Desktop/HackerRank/Fools/anagram.py"
+ 2284  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/anagram.py
+ 2285  clear
+ 2286  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/anagram.py
+ 2287  python -u "/Users/paulaenxi/Desktop/HackerRank/Fools/anagram.py"
+ 2288  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/anagram.py
+ 2289  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/camelcase.py
+ 2290  clear
+ 2291  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/camelcase.py
+ 2292  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/circulararr.py
+ 2293  clear
+ 2294  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/circulararr.py
+ 2295  d "/Users/paulaenxi/Desktop/Test/" && javac Controller.java && java Controller
+ 2296  cd "/Users/paulaenxi/Desktop/Test/" && javac Controller.java && java Controller
+ 2297  d "/Users/paulaenxi/Downloads/mazebot-test-main/" && javac Driver.java && java Driver
+ 2298  cd "/Users/paulaenxi/Desktop/Test/" && javac Trial.java && java Trial
+ 2299  /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:50890 -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/paulaenxi/Library/Application\ Support/Code/User/workspaceStorage/bfa432a94d8a43e2d497bb2a3cb129fa/redhat.java/jdt_ws/Test_26e0137/bin Trial 
+ 2300  cd "/Users/paulaenxi/Desktop/Test/" && javac Trial.java && java Trial
+ 2301  cd "/Users/paulaenxi/Desktop/Test/" && javac Controller.java && java Controller
+ 2302  cd "/Users/paulaenxi/Desktop/Test/" && javac Trial.java && java Trial
+ 2303  cd "/Users/paulaenxi/Desktop/Test/" && javac Controller.java && java Controller
+ 2304  cd "/Users/paulaenxi/Desktop/Test/" && javac Trial.java && java Trial
+ 2305  cd "/Users/paulaenxi/Desktop/Test/" && javac Controller.java && java Controller
+ 2306  cd "/Users/paulaenxi/Desktop/Test/" && javac Trial.java && java Trial
+ 2307  cd "/Users/paulaenxi/Desktop/Test/" && javac tempCodeRunnerFile.java && java tempCodeRunnerFile
+ 2308  cd "/Users/paulaenxi/Desktop/Test/" && javac Trial.java && java Trial
+ 2309  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2310  cd "/Users/paulaenxi/Desktop/Test/" && javac Controller.java && java Controller
+ 2311  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2312  cd "/Users/paulaenxi/Desktop/Test/" && javac Controller.java && java Controller
+ 2313  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2314  cd "/Users/paulaenxi/Desktop/Test/" && javac Controller.java && java Controller
+ 2315  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2316  d "/Users/paulaenxi/Desktop/Test/" && javac Controller.java && java Controller
+ 2317  cd "/Users/paulaenxi/Desktop/Test/" && javac Controller.java && java Controller
+ 2318  cd "/Users/paulaenxi/Desktop/Test/" && javac Trial.java && java Trial
+ 2319  clear
+ 2320  cd "/Users/paulaenxi/Desktop/Test/" && javac Trial.java && java Trial
+ 2321  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2322  usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/anagram.py
+ 2323  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/mindistance.py
+ 2324  clear
+ 2325  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/mindistance.py
+ 2326  ython -u "/Users/paulaenxi/Desktop/HackerRank/Fools/mindistance.py"
+ 2327  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/mindistance.py
+ 2328  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/sherlock.py
+ 2329  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/mindistance.py
+ 2330  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/sherlock.py
+ 2331  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/sherloc/usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/minimax.py
+ 2332  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/minimax.py
+ 2333  clear
+ 2334  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/minimax.py
+ 2335  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py
+ 2336  clear
+ 2337  python -u "/Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py"
+ 2338  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py
+ 2339  clear
+ 2340  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py
+ 2341  clear
+ 2342  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py
+ 2343  clear
+ 2344  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py
+ 2345  clear
+ 2346  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py
+ 2347  clear
+ 2348  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py
+ 2349  clear
+ 2350  clear/usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py
+ 2351  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py
+ 2352  clear
+ 2353  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py
+ 2354  python -u "/Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py"
+ 2355  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py
+ 2356  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2357  usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/sparse.py
+ 2358  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/sparse.py
+ 2359  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queue_1.py
+ 2360  clear
+ 2361  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queue_1.py
+ 2362  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2363  clear
+ 2364  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2365  clear
+ 2366  10
+ 2367  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2368  clear
+ 2369  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2370  clear
+ 2371  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2372  clear
+ 2373  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2374  clear
+ 2375  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2376  clear
+ 2377  10
+ 2378  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2379  clear
+ 2380  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2381  clear
+ 2382  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2383  clear
+ 2384  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2385  clear
+ 2386  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2387  clear
+ 2388  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2389  clear
+ 2390  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2391  clear
+ 2392  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2393  clear
+ 2394  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2395  clear
+ 2396  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2397  clear
+ 2398  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2399  clear
+ 2400  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2401  clear
+ 2402  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2403  clear
+ 2404  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/queues.py
+ 2405  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Magician/bfs.py
+ 2406  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/rice.py
+ 2407  clear
+ 2408  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/rice.py
+ 2409  clear
+ 2410  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/rice.py
+ 2411  clear
+ 2412  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/rice.py
+ 2413  clear
+ 2414  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/rice.py
+ 2415  clear
+ 2416  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/rice.py
+ 2417  clear
+ 2418  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/rice.py
+ 2419  clear
+ 2420  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/rice.py
+ 2421  clear
+ 2422  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/rice.py
+ 2423  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/espn.py
+ 2424  clear
+ 2425  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/espn.py
+ 2426  clear
+ 2427  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/espn.py
+ 2428  clear
+ 2429  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/espn.py
+ 2430  clear
+ 2431  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/espn.py
+ 2432  clear
+ 2433  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/espn.py
+ 2434  clear
+ 2435  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/espn.py
+ 2436  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/trial.py
+ 2437  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/espn.py
+ 2438  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/powah.py
+ 2439  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/trial.py
+ 2440  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/tribo.py
+ 2441  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/monkey.py
+ 2442  clear
+ 2443  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/monkey.py
+ 2444  clear
+ 2445  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/monkey.py
+ 2446  clear
+ 2447  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/monkey.py
+ 2448  clear
+ 2449  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/monkey.py
+ 2450  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/trial.py
+ 2451  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/monkey.py
+ 2452  8
+ 2453  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/monkey.py
+ 2454  8
+ 2455  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/monkey.py
+ 2456  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/monkeyQS.py
+ 2457  clear
+ 2458  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Priestess/monkeyQS.py
+ 2459  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Empress/quicksort.py
+ 2460  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Empress/spellcasters.py
+ 2461  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Hierophant/easiest.py
+ 2462  usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Emperor/salem.py
+ 2463  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Emperor/salem.py
+ 2464  clear
+ 2465  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Emperor/salem.py
+ 2466  clear
+ 2467  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Emperor/salem.py
+ 2468  clear
+ 2469  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Emperor/salem.py
+ 2470  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Hierophant/salem2.py
+ 2471  clear
+ 2472  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Hierophant/salem2.py
+ 2473  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Hierophant/salem2.py/usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Hierophant/salem2.py
+ 2474  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Hierophant/salem2.py
+ 2475  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2476  clear
+ 2477  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2478  clear
+ 2479  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2480  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/trial.py
+ 2481  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2482  clear
+ 2483  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2484  clear
+ 2485  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2486  clear
+ 2487  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2488  clear
+ 2489  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2490  clear
+ 2491  P
+ 2492  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2493  clear
+ 2494  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2495  clear
+ 2496  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2497  clear
+ 2498  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2499  clear
+ 2500  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2501  clear
+ 2502  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2503  clear
+ 2504  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2505  clear
+ 2506  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/algorythmos.py
+ 2507  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/unsunder.py
+ 2508  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/t.py
+ 2509  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/hamilton.py
+ 2510  clear
+ 2511  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/hamilton.py
+ 2512  clear
+ 2513  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/hamilton.py
+ 2514  clear/usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py/usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/hamilton.py
+ 2515  clear
+ 2516  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/hamilton.py
+ 2517  clear
+ 2518  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/hamilton.py
+ 2519  clear
+ 2520  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/hamilton.py
+ 2521  clear
+ 2522  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/hamilton.py
+ 2523  clear
+ 2524  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/hamilton.py
+ 2525  c;ear
+ 2526  clear
+ 2527  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/hamilton.py
+ 2528  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2529  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2530  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2531  python -u "/Users/paulaenxi/Desktop/HackerRank/Exam/savage.py"
+ 2532  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2533  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2534  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester2.py
+ 2535  clear
+ 2536  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester2.py
+ 2537  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2538  y
+ 2539  clear
+ 2540  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2541  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2542  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2543  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2544  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2545  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2546  clear
+ 2547  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2548  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2549  clear
+ 2550  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2551  clear
+ 2552  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2553  clear
+ 2554  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2555  clear
+ 2556  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2557  clear
+ 2558  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2559  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/eme.py
+ 2560  clear
+ 2561  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/eme.py
+ 2562  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2563  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/eme.py
+ 2564  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2565  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/eme.py
+ 2566  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/tester.py
+ 2567  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2568  clear
+ 2569  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2570  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage2.py
+ 2571  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage3.py
+ 2572  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage2.py
+ 2573  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage3.py
+ 2574  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2575  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage3.py
+ 2576  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage2.py
+ 2577  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage3.py
+ 2578  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage2.py
+ 2579  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage3.py
+ 2580  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage2.py
+ 2581  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage3.py
+ 2582  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage4.py
+ 2583  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage3.py
+ 2584  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage4.py
+ 2585  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage3.py
+ 2586  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage4.py
+ 2587  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2588  clear
+ 2589  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage4.py
+ 2590  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage3.py
+ 2591  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage4.py
+ 2592  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage3.py
+ 2593  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage4.py
+ 2594  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2595  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage4.py
+ 2596  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2597  clear
+ 2598  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2599  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2600  clear
+ 2601  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2602  clear
+ 2603  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2604  clear
+ 2605  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2606  clear
+ 2607  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2608  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/bug.py
+ 2609  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2610  clear
+ 2611  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2612  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/bug.py
+ 2613  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2614  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/bug.py
+ 2615  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2616  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/bug.py
+ 2617  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2618  clear
+ 2619  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2620  clear
+ 2621  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2622  clear
+ 2623  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2624  clear
+ 2625  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2626  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/bug.py
+ 2627  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2628  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/bug.py
+ 2629  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/savage.py
+ 2630  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/bug.py
+ 2631  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2632  clear
+ 2633  pip install numpy
+ 2634  pip install numpy/usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2635  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/partner.py
+ 2636  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/bug.py
+ 2637  python -u "/Users/paulaenxi/Desktop/HackerRank/Exam/bug.py"
+ 2638  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Exam/bug.py
+ 2639  /usr/local/bin/python3
+ 2640  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Hierophant/maiden.py
+ 2641  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2642  cd "/Users/paulaenxi/Desktop/DLSU/Term 2/CCPROG2/Hands On/StringUtils/" && gcc stringUtilsMain.c -o stringUtilsMain && "/Users/paulaenxi/Desktop/DLSU/Term 2/CCPROG2/Hands On/StringUtils/"stringUtilsMain
+ 2643  clear
+ 2644  ./main < INPUT.txt > PACHEC-ACTUAL.txt
+ 2645  ./stringUtilsMain < input.txt > PACHECO-ACTUAL.txt
+ 2646  clear
+ 2647  ./stringUtilsMain < input.txt > PACHECO-ACTUAL.txt
+ 2648  cd "/Users/paulaenxi/Desktop/DLSU/Term 2/CCPROG2/Hands On/StringUtils/" && gcc stringUtilsMain.c -o stringUtilsMain && "/Users/paulaenxi/Desktop/DLSU/Term 2/CCPROG2/Hands On/StringUtils/"stringUtilsMain
+ 2649  ./stringUtilsMain < input.txt > PACHECO-ACTUAL.txt
+ 2650  gcc stringUtilsMain.c -o stringUtilsMain
+ 2651  ./stringUtilsMain < input.txt > PACHECO-ACTUAL.txt
+ 2652  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2653  cd "/Users/paulaenxi/Desktop/FinalMaze/" && javac Driver.java && java Driver
+ 2654  cd "/Users/paulaenxi/Desktop/FinalMaze/" && javac Controller.java && java Controller
+ 2655  cd "/Users/paulaenxi/Desktop/FinalMaze/" && javac Driver.java && java Driver
+ 2656  cd "/Users/paulaenxi/Desktop/FinalMaze/" && javac Controller.java && java Controller
+ 2657  cd "/Users/paulaenxi/Desktop/FinalMaze/" && javac Model.java && java Model
+ 2658  cd "/Users/paulaenxi/Desktop/FinalMaze/" && javac Controller.java && java Controller
+ 2659  cd "/Users/paulaenxi/Desktop/FinalMaze/" && javac Model.java && java Model
+ 2660  cd "/Users/paulaenxi/Desktop/FinalMaze/" && javac Controller.java && java Controller
+ 2661  cd "/Users/paulaenxi/Desktop/MazeBot/" && javac Driver.java && java Driver
+ 2662  cd "/Users/paulaenxi/Downloads/mazebot-test-main/" && javac Controller.java && java Controller
+ 2663  cd "/Users/paulaenxi/Desktop/MazeBot/" && javac Driver.java && java Driver
+ 2664  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2665  cd "/Users/paulaenxi/Desktop/MazeBot/" && javac Driver.java && java Driver
+ 2666  cd "/Users/paulaenxi/Downloads/mazebot-test-main/" && javac Controller.java && java Controller
+ 2667  cd "/Users/paulaenxi/Desktop/MazeBot/" && javac Driver.java && java Driver
+ 2668  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2669  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSINTSY/MCO/MazeBot/" && javac Driver.java && java Driver
+ 2670  cd "/Users/paulaenxi/Desktop/MazeBot/" && javac Controller.java && java Controller
+ 2671  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2672  clear
+ 2673  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2674  cd "/Users/paulaenxi/Desktop/MazeBot/" && javac Controller.java && java Controller
+ 2675  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2676  cd "/Users/paulaenxi/Desktop/MazeBot/" && javac Controller.java && java Controller
+ 2677  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2678  cd "/Users/paulaenxi/Desktop/MazeBot/" && javac Controller.java && java Controller
+ 2679  cd "/Users/paulaenxi/Documents/GitHub/MazeBot/" && javac Controller.java && java Controller
+ 2680  cd DLSU
+ 2681  cd Desktop/DLSU/Term 4/CSINTSY/MCO1
+ 2682  cd Desktop
+ 2683  cd DLSU
+ 2684  cd Term 4
+ 2685  ls
+ 2686  cd "Term 4"
+ 2687  cd CSINTSY
+ 2688  cd MCO1
+ 2689  cd app
+ 2690  ls
+ 2691  java -jar mazebot.jar
+ 2692  history
+ 2693  cd Desktop
+ 2694  cd DLSU
+ 2695  cd "Term 4"
+ 2696  cd CSINTSY
+ 2697  cd MCO1
+ 2698  cd app
+ 2699  java -jar mazebot.jar
+ 2700  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Hierophant/maiden.py
+ 2701  python -u "/Users/paulaenxi/Desktop/HackerRank/Hierophant/maiden.py"
+ 2702  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Hierophant/maiden.py
+ 2703  Rscript "/Users/paulaenxi/Desktop/HackerRank/Hierophant/thing.r"
+ 2704  clear
+ 2705  Rscript "/Users/paulaenxi/Desktop/HackerRank/Hierophant/thing.r"
+ 2706  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Hierophant/harvs.py
+ 2707  cd "/Users/paulaenxi/Desktop/DLSU/Term 2/CCPROG2/MP/" && gcc ced.c -o ced && "/Users/paulaenxi/Desktop/DLSU/Term 2/CCPROG2/MP/"ced
+ 2708  clang --version
+ 2709  cmake
+ 2710  cmake --help
+ 2711  cmake
+ 2712  cmake --version
+ 2713  cmake.cmakePath
+ 2714  cmake
+ 2715  cmake --help
+ 2716  cmake -S
+ 2717  cmake --S
+ 2718  cmake --trace
+ 2719  $PATH
+ 2720  cd "/Users/paulaenxi/Desktop/DLSU/Term 2/CCPROG2/MP/" && gcc PachecoP.c -o PachecoP && "/Users/paulaenxi/Desktop/DLSU/Term 2/CCPROG2/MP/"PachecoP
+ 2721  d "/Users/paulaenxi/Desktop/HackerRank/Emperor/" && gcc thing.c -o thing && "/Users/paulaenxi/Desktop/HackerRank/Emperor/"thing
+ 2722  cd "/Users/paulaenxi/Desktop/HackerRank/Emperor/" && gcc thing.c -o thing && "/Users/paulaenxi/Desktop/HackerRank/Emperor/"thing
+ 2723  clean
+ 2724  clear
+ 2725  cd "/Users/paulaenxi/Desktop/HackerRank/Emperor/" && gcc thing.c -o thing && "/Users/paulaenxi/Desktop/HackerRank/Emperor/"thing
+ 2726  cd "/Users/paulaenxi/Desktop/HackerRank/Emperor/" && gcc shape.c -o shape && "/Users/paulaenxi/Desktop/HackerRank/Emperor/"shape
+ 2727  history
+ 2728  cd Desktop
+ 2729  cd DLSU
+ 2730  cd "Term 4"
+ 2731  cd CSINTSY
+ 2732  cd MCO1
+ 2733  cd app
+ 2734  java -jar mazebot.jar
+ 2735  d "/Users/paulaenxi/Desktop/HackerRank/Justice/" && gcc prac.c -o prac && "/Users/paulaenxi/Desktop/HackerRank/Justice/"prac
+ 2736  clear
+ 2737  cd "/Users/paulaenxi/Desktop/HackerRank/Justice/" && gcc prac.c -o prac && "/Users/paulaenxi/Desktop/HackerRank/Justice/"prac
+ 2738  python -u "/Users/paulaenxi/Desktop/HackerRank/Justice/spikeeasy.py"
+ 2739  usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Justice/spikeeasy.py
+ 2740  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Justice/spikeeasy.py
+ 2741  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Justice/memoize.py
+ 2742  0
+ 2743  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Justice/memoize.py
+ 2744  3 2 3
+ 2745  /usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Justice/memoize.py
+ 2746  clear
+ 2747  gcc IntoTheForest.c -o main
+ 2748  main < testcase1_input.txt > output.txt
+ 2749  main.c < testcase1_input.txt > output.txt
+ 2750  gcc IntoTheForest.c -o IntoTheForest
+ 2751  IntoTheForest < testcase1_input.txt > output.txt
+ 2752  ./IntoTheForest < testcase1_input.txt > output.txt
+ 2753  clear
+ 2754  ./IntoTheForest < testcase1_input.txt > output.txt
+ 2755  cd "/Users/paulaenxi/Desktop/CodeQuest/" && gcc IntoTheForest.c -o IntoTheForest && "/Users/paulaenxi/Desktop/CodeQuest/"IntoTheForest
+ 2756  brew install gnu-prolog
+ 2757  gprolog
+ 2758  brew install gnu-prolog
+ 2759  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+ 2760  clear
+ 2761  brew -version
+ 2762  brew --version
+ 2763  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+ 2764  clear
+ 2765  brew --version
+ 2766  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ 2767  (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/paulaenxi/.zprofile
+ 2768  clear
+ 2769  history
+ 2770  brew install startship
+ 2771  brew install starship
+ 2772  clear
+ 2773  brew install gnu-prolog
+ 2774  gprolog
+ 2775  clear
+ 2776  gprolog
+ 2777  cd Desktop
+ 2778  cd Prolog
+ 2779  gprolog
+ 2780  clear
+ 2781  gprolog
+ 2782  clear
+ 2783  gprolog
+ 2784  clear
+ 2785  gprolog
+ 2786  clear
+ 2787  gprolog
+ 2788  clear
+ 2789  gprolog
+ 2790  clear
+ 2791  gprolog
+ 2792  Rscript "/Users/paulaenxi/Desktop/Prolog/rlang.r"
+ 2793  2
+ 2794  Rscript "/Users/paulaenxi/Desktop/Prolog/rlang.r"
+ 2795  cd "/Users/paulaenxi/Desktop/HackerRank/Justice/" && javac derange.java && java derange
+ 2796  Rscript "/Users/paulaenxi/Desktop/Prolog/rlang.r"
+ 2797  ruby "/Users/paulaenxi/Desktop/Prolog/tax.ruby"
+ 2798  clear
+ 2799  ruby "/Users/paulaenxi/Desktop/Prolog/tax.ruby"
+ 2800  ruby "/Users/paulaenxi/Desktop/Prolog/income.ruby"
+ 2801  ruby "/Users/paulaenxi/Desktop/Prolog/tax.ruby"
+ 2802  clear
+ 2803  ruby "/Users/paulaenxi/Desktop/Prolog/tax.ruby"
+ 2804  Rscript "/Users/paulaenxi/Desktop/Prolog/samp.r"
+ 2805  history
+ 2806  cd Downloads
+ 2807  gprolog
+ 2808  ruby "/Users/paulaenxi/Desktop/DLSU/Term 4/CSINTSY/Prolog/uwu.ruby"
+ 2809  ruby "/Users/paulaenxi/Downloads/BANTOLINO_DIMALANTA_PACHECO_VILLACERAN.rb"
+ 2810  cd Downloads
+ 2811  gprolog
+ 2812  cd Downloads
+ 2813  gprolog
+ 2814  cd Downloads
+ 2815  gprolog
+ 2816  cd Downloads
+ 2817  cd ..
+ 2818  cd Desktops
+ 2819  cd Desktop
+ 2820  cd ChatBot
+ 2821  clear
+ 2822  gprolog
+ 2823  clear
+ 2824  [chatbot].
+ 2825  clear
+ 2826  gprolog
+ 2827  clear
+ 2828  gprolog
+ 2829  clear
+ 2830  gprolog
+ 2831  cd Desktop
+ 2832  cd ..
+ 2833  clear
+ 2834  cd Desktop/ChatBot
+ 2835  ls
+ 2836  pwd
+ 2837  chatbot % pwd
+ 2838  cd Desktop/ChatBot
+ 2839  ls
+ 2840  pwd
+ 2841  ls
+ 2842  cd Desktop/ChatBot
+ 2843  pwd
+ 2844  cd Desktop/ChatBot
+ 2845  pwd
+ 2846  ls
+ 2847  cd Desktop/ChatBot
+ 2848  gprolog
+ 2849  /usr/local/bin/python3 "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/algo.py"
+ 2850  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && gcc algo.c -o algo && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/"algo
+ 2851  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && gcc tempCodeRunnerFile.c -o tempCodeRunnerFile && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/"tempCodeRunnerFile
+ 2852  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && gcc algo.c -o algo && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/"algo
+ 2853  clear
+ 2854  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && gcc algo.c -o algo && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/"algo
+ 2855  clear
+ 2856  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && gcc algo.c -o algo && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/"algo
+ 2857  clear
+ 2858  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && gcc algo.c -o algo && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/"algo
+ 2859  clear
+ 2860  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && gcc algo.c -o algo && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/"algo
+ 2861  clear
+ 2862  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && gcc algo.c -o algo && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/"algo
+ 2863  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && gcc requiem.c -o requiem && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/"requiem
+ 2864  clear
+ 2865  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && gcc requiem.c -o requiem && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/"requiem
+ 2866  /usr/local/bin/python3 "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/epic.py"
+ 2867  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && gcc epic.c -o epic && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/"epic
+ 2868  clear
+ 2869  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && gcc epic.c -o epic && "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/"epic
+ 2870  cd "/Users/paulaenxi/Desktop/DLSU/Term 4/CSALGCM/HackerRank/Exam2/" && javac edge.java && java edge
+ 2871  macs
+ 2872  y
+ 2873  omz update
+ 2874  emacs
+ 2875  brew install emacs
+ 2876  clear
+ 2877  emacs
+ 2878  brew install icarus-verilog
+ 2879  sudo port -v install gtkwave
+ 2880  sudo port install gtk2 +quartz
+ 2881  clear
+ 2882  sudo port -v install gtkwave
+ 2883  sudo nano /etc/paths
+ 2884  brew install --cask gtkwave
+ 2885  cpan install Switch
+ 2886  sudo cp /usr/local/Cellar/perl/5.*/lib/perl5/site_perl/5.*/Switch.pm /Library/Perl/5.*/
+ 2887  /Applications/gtkwave.app/Contents/Resources/bin/gtkwave
+ 2888  v run "/Users/paulaenxi/Desktop/DLSU/Term 5/CSARCH1/Programs/Project1/XPacP.v"
+ 2889  clear
+ 2890  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2891  clear
+ 2892  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2893  clear
+ 2894  cd Desktop/DLSU/Term_5
+ 2895  cd Desktop
+ 2896  cd DLSU
+ 2897  cd Term-5
+ 2898  cd Term 5
+ 2899  cd 'Term 5'
+ 2900  cd CSARCH1
+ 2901  cd Programs
+ 2902  cd Project1
+ 2903  clear
+ 2904  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2905  clear
+ 2906  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2907  vvp XPacP.vvp
+ 2908  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2909  vvp XPacP.vvp
+ 2910  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2911  vvp XPacP.vvp
+ 2912  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2913  vvp XPacP.vvp
+ 2914  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2915  vvp XPacP.vvp
+ 2916  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2917  vvp XPacP.vvp
+ 2918  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2919  vvp XPacP.vvp
+ 2920  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2921  clear
+ 2922  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2923  vvp XPacP.vvp
+ 2924  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2925  clear
+ 2926  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2927  vvp XPacP.vvp
+ 2928  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2929  vvp XPacP.vvp
+ 2930  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2931  vvp XPacP.vvp
+ 2932  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2933  vvp XPacP.vvp
+ 2934  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2935  vvp XPacP.vvp
+ 2936  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2937  vvp XPacP.vvp
+ 2938  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2939  vvp XPacP.vvp
+ 2940  gtkwave
+ 2941  npm i bootstrap@5.3.0
+ 2942  npm
+ 2943  npm -v
+ 2944  brew install node
+ 2945  tmp/open-smapi-terminal.sh ; exit;
+ 2946  Users/paulaenxi/Desktop/Games/SMAPI\ 3.18.4/install\ on\ macOS.command ; exit;
+ 2947  /Users/paulaenxi/Desktop/Games/SMAPI\ 3.18.4/install\ on\ macOS.command ; exit;
+ 2948  /tmp/open-smapi-terminal.command ; exit;
+ 2949  node -v
+ 2950  npm install express
+ 2951  brew tap mongodb/brew\n
+ 2952  brew update
+ 2953  brew install mongodb-community@6.0\n
+ 2954  node app.js
+ 2955  cd Documents
+ 2956  cd GitHub
+ 2957  cd Weebrary
+ 2958  node app.js
+ 2959  ls
+ 2960  node app.js
+ 2961  node server.js
+ 2962  clear
+ 2963  node server.js
+ 2964  history
+ 2965  cd Documents/GitHub/Weebrary
+ 2966  node app.js
+ 2967  history
+ 2968  cd Documents/Weebrary
+ 2969  cd Documents
+ 2970  cd Weebrary
+ 2971  cd GitHub/Weebrary
+ 2972  node app.js
+ 2973  -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2974  iverilog -o XPacP.vvp XPacP.v XPacP_tb.v
+ 2975  vvp XPacP.vvp
+ 2976  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 2977  vvp YPacP.vvp
+ 2978  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 2979  vvp YPacP.vvp
+ 2980  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 2981  vvp YPacP.vvp
+ 2982  clear
+ 2983  iverilog -o YUyT.vvp YUyT.v YUyT_tb.v
+ 2984  vvp YUyT.vvp
+ 2985  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 2986  vvp YPacP.vvp
+ 2987  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 2988  vvp YPacP.vvp
+ 2989  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 2990  vvp YPacP.vvp
+ 2991  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 2992  vvp YPacP.vvp
+ 2993  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 2994  vvp YPacP.vvp
+ 2995  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 2996  vvp YPacP.vvp
+ 2997  clear
+ 2998  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 2999  vvp YPacP.vvp
+ 3000  clear
+ 3001  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3002  vvp YPacP.vvp
+ 3003  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3004  vvp YPacP.vvp
+ 3005  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3006  vvp YPacP.vvp
+ 3007  clear
+ 3008  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3009  vvp YPacP.vvp
+ 3010  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3011  vvp YPacP.vvp
+ 3012  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3013  vvp YPacP.vvp
+ 3014  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3015  vvp YPacP.vvp
+ 3016  iverilog -o YUyT.vvp YUyT.v YUyT_tb.v
+ 3017  vvp YUyT.vvp
+ 3018  iverilog -o YUyT.vvp YUyT.v YUyT_tb.v
+ 3019  vvp YUyT.vvp
+ 3020  iverilog -o YUyT.vvp YUyT.v YUyT_tb.v
+ 3021  vvp YUyT.vvp
+ 3022  iverilog -o YUyT.vvp YUyT.v YUyT_tb.v
+ 3023  vvp YUyT.vvp
+ 3024  iverilog -o YUyT.vvp YUyT.v YUyT_tb.v
+ 3025  vvp YUyT.vvp
+ 3026  iverilog -o YUyT.vvp YUyT.v YUyT_tb.v
+ 3027  vvp YUyT.vvp
+ 3028  iverilog -o YUyT.vvp YUyT.v YUyT_tb.v
+ 3029  vvp YUyT.vvp
+ 3030  iverilog -o YUyT.vvp YUyT.v YUyT_tb.v
+ 3031  vvp YUyT.vvp
+ 3032  iverilog -o YUyT.vvp YUyT.v YUyT_tb.v
+ 3033  vvp YUyT.vvp
+ 3034  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3035  vvp YPacP.vvp
+ 3036  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3037  vvp YPacP.vvp
+ 3038  cd Documents/GitHub/Weebrary
+ 3039  node app.js
+ 3040  clear
+ 3041  node app.js
+ 3042  CLEAR
+ 3043  node app.js
+ 3044  cmd /c "/Users/paulaenxi/Documents/GitHub/Weebrary/startServer.bat"
+ 3045  cd Documents/GitHub/Weebrary
+ 3046  node app.js
+ 3047  cd Documents/GitHub/Weebrary
+ 3048  node app.js
+ 3049  clear
+ 3050  node app.js
+ 3051  npm i mongoose
+ 3052  npm i bcrypt
+ 3053  kk
+ 3054  clear
+ 3055  npm app.js
+ 3056  node app.js
+ 3057  clear
+ 3058  npm i mongoose
+ 3059  npm i bcrypt
+ 3060  clear
+ 3061  cd Documents/GitHub/Weebrary
+ 3062  node app.js
+ 3063  cmd /c "/Users/paulaenxi/Documents/GitHub/Weebrary/tempCodeRunnerFile.bat"
+ 3064  /Users/paulaenxi/Documents/GitHub/Weebrary/startServer.bat 
+ 3065  npm i dotenv
+ 3066  cd Documents/GitHub/Weebrary
+ 3067  node app.js
+ 3068  clear
+ 3069  ./startServer.bat
+ 3070  mongodb -ver
+ 3071  brew tap mongodb/brew
+ 3072  brew updated
+ 3073  brew update
+ 3074  brew install mongodb-community@6.0\n
+ 3075  cd Documents/GitHub/Weebrary
+ 3076  node app.js
+ 3077  cd ..
+ 3078  cd Downloads/weeb-repo-NodeTest
+ 3079  node app.js
+ 3080  npm i express
+ 3081  npm i express-handlebars
+ 3082  npm i express-session
+ 3083  npm i bcrypt
+ 3084  npm i mongoose
+ 3085  clear
+ 3086  cd Documents/GitHub/Weebrary
+ 3087  node app.js
+ 3088  mongod
+ 3089  clear
+ 3090  cd Users
+ 3091  cd Documents
+ 3092  cd Users
+ 3093  clear
+ 3094  cd ..
+ 3095  clear
+ 3096  cd ..
+ 3097  mkdir -p paulaenxi/data/db
+ 3098  sudo chown -R paulaenxi paulaenxi/data
+ 3099  cd 
+ 3100  mongod --dbpath /Users/paulaenxi/data/db
+ 3101  cd Documents/GitHub/Weebrary
+ 3102  node app.js
+ 3103  clear
+ 3104  node app.js
+ 3105  clear
+ 3106  node app.js
+ 3107  clear
+ 3108  node app.js
+ 3109  clear
+ 3110  node app.js
+ 3111  clear
+ 3112  node app.js
+ 3113  clear
+ 3114  node app.js
+ 3115  clear
+ 3116  node app.js
+ 3117  clear
+ 3118  node app.js
+ 3119  clear
+ 3120  node app.js
+ 3121  clear
+ 3122  node app.js
+ 3123  clear
+ 3124  node app.js
+ 3125  clear
+ 3126  node app.js
+ 3127  clear
+ 3128  node app.js
+ 3129  clear
+ 3130  node app.js
+ 3131  clear
+ 3132  node app.js
+ 3133  clear
+ 3134  node app.js
+ 3135  clear
+ 3136  node app.js
+ 3137  clear
+ 3138  node app.js
+ 3139  clear
+ 3140  node app.js
+ 3141  cd Documents/GitHub/Weebrary
+ 3142  node app.js
+ 3143  clear
+ 3144  node app.js
+ 3145  clear
+ 3146  node app.js
+ 3147  clear
+ 3148  node app.js
+ 3149  cd Documents/GitHub/Weebrary
+ 3150  node app.js
+ 3151  history
+ 3152  cd ..
+ 3153  mkdir -p paulaenxi/data/db2
+ 3154  sudo chown -R paulaenxi paulaenxi/data
+ 3155  cd
+ 3156  mongod --dbpath /Users/paulaenxi/data/db2
+ 3157  cd Documents/GitHub/Weebrary
+ 3158  node app.js
+ 3159  clear
+ 3160  node app.js
+ 3161  clear
+ 3162  node app.js
+ 3163  CLEAR
+ 3164  node app.js
+ 3165  cd Desktop/old-repo
+ 3166  node server.js
+ 3167  cd ..
+ 3168  cd Documents/GitHub/Weebrary
+ 3169  node app.js
+ 3170  cd Documents/GitHub/Weebrary
+ 3171  node app.js
+ 3172  node "/Users/paulaenxi/Documents/GitHub/Weebrary/model/schemas.js"
+ 3173  node app.js
+ 3174  npm install handlebars-helpers
+ 3175  npm audit fix
+ 3176  node app.js
+ 3177  cd Documents/GitHub/Weebrary
+ 3178  node app.js
+ 3179  history
+ 3180  cd ..
+ 3181  mkdir -p paulaenxi/data/db
+ 3182  sudo chown -R paulaenxi paulaenxi/data
+ 3183  cd
+ 3184  mongod --dbpath /Users/paulaenxi/data/db
+ 3185  cd Documents/GitHub/Weebrary
+ 3186  node app.js
+ 3187  clear
+ 3188  node app.js
+ 3189  cd Documents/GitHub/Weebrary
+ 3190  node app.js
+ 3191  cd Documents/GitHub/Weebrary
+ 3192  node app.js
+ 3193  cd Desktop/practice
+ 3194  npm install
+ 3195  node index.js
+ 3196  cd Desktop/Practice
+ 3197  node index.js
+ 3198  cd ..
+ 3199  cd bb
+ 3200  node index.js
+ 3201  cd ..
+ 3202  cd Practice
+ 3203  node index.js
+ 3204  history
+ 3205  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3206  vvp YPacP.vvp
+ 3207  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3208  vvp YPacP.vvp
+ 3209  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3210  vvp YPacP.vvp
+ 3211  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3212  vvp YPacP.vvp
+ 3213  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3214  vvp YPacP.vvp
+ 3215  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3216  vvp YPacP.vvp
+ 3217  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3218  vvp YPacP.vvp
+ 3219  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3220  vvp YPacP.vvp
+ 3221  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3222  vvp YPacP.vvp
+ 3223  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3224  vvp YPacP.vvp
+ 3225  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3226  vvp YPacP.vvp
+ 3227  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3228  vvp YPacP.vvp
+ 3229  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3230  vvp YPacP.vvp
+ 3231  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3232  vvp YPacP.vvp
+ 3233  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3234  vvp YPacP.vvp
+ 3235  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3236  vvp YPacP.vvp
+ 3237  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3238  vvp YPacP.vvp
+ 3239  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3240  vvp YPacP.vvp
+ 3241  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3242  vvp YPacP.vvp
+ 3243  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3244  vvp YPacP.vvp
+ 3245  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3246  vvp YPacP.vvp
+ 3247  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3248  vvp YPacP.vvp
+ 3249  node index.js
+ 3250  cd Desktop/Practice
+ 3251  index.js
+ 3252  node index.js
+ 3253  iverilog -o YPacP.vvp YPacP.v YPacP_tb.v
+ 3254  vvp YPacP.vvp
+ 3255  cd Desktop/Product
+ 3256  node router.js
+ 3257  node index.js
+ 3258  npm install
+ 3259  node index.js
+ 3260  cd ..
+ 3261  history
+ 3262  cd ..
+ 3263  mkdir -p paulaenxi/data/db
+ 3264  sudo chown -R paulaenxi paulaenxi/data
+ 3265  cd
+ 3266  mongod --dbpath /Users/paulaenxi/data.db
+ 3267  mongod --dbpath /Users/paulaenxi/data/db
+ 3268  cd Desktop/Product
+ 3269  node index.js
+ 3270  npm install
+ 3271  node index.js
+ 3272  cd ..
+ 3273  npm install
+ 3274  cd Desktop/Product
+ 3275  node index.js
+ 3276  cd Desktop/Product
+ 3277  node index.js
+ 3278  history
+ 3279  cd ..
+ 3280  mkdir -p paulaenxi/data/db
+ 3281  sudo chown -R paulaenxi paulaenxi/data
+ 3282  cd
+ 3283  mongod --dbpath /Users/paulaenxi/data/db
+ 3284  cd Desktop/Product
+ 3285  node index.js
+ 3286  history
+ 3287  cd ..
+ 3288  mkdir -p paulaenxi/data/db69
+ 3289  sudo chown -R paulaenxi paulaenxi/data
+ 3290  cd
+ 3291  mongod --dbpath /Users/paulaenxi/data/db69
+ 3292  cd Desktop/Product
+ 3293  node index.js
+ 3294  mongoose.connection.close()
+ 3295  cd ..
+ 3296  ~/mongodb/bin/mongod
+ 3297  brew services stop mongodb-community
+ 3298  brew services start mongodb-community
+ 3299  cd Desktop/Product
+ 3300  clear
+ 3301  cd Documents/GitHub/Weebrary
+ 3302  node app.js
+ 3303  cd Documents/GitHub/Weebrary
+ 3304  node app.js
+ 3305  cd Desktop/CFG
+ 3306  pip3 install -r requirements.txt
+ 3307  cd client
+ 3308  npm install
+ 3309  cd ..
+ 3310  python3 server.py
+ 3311  pip install flask
+ 3312  python3 server.py
+ 3313  pip install Flask-Cors
+ 3314  python3 server.py
+ 3315  cd ..
+ 3316  pip install --upgrade pip
+ 3317  cd Documents/GitHub/Weebrary
+ 3318  node app.js
+ 3319  clear
+ 3320  cd Documents/GitHub/Weebrary
+ 3321  node app.js
+ 3322  cd ..
+ 3323  cd Desktop/weebers
+ 3324  node app.js
+ 3325  cd ..
+ 3326  cd Documents/GitHub/Weebrary
+ 3327  node app.js
+ 3328  cd ..
+ 3329  cd Desktop/weebers
+ 3330  node app.js
+ 3331  cd ..
+ 3332  cd Documents/GitHub/Weebrary
+ 3333  node app.js
+ 3334  cd Documents/GitHub/Weebrary
+ 3335  node app.js
+ 3336  npm i
+ 3337  node app.js
+ 3338  cd Documents/GitHub/Weebrary
+ 3339  node app.js
+ 3340  cd Documents/GitHub/Weebrary
+ 3341  node app.js
+ 3342  cd Documents/GitHub/Weebrary
+ 3343  node app.js
+ 3344  pwd
+ 3345  ls
+ 3346  vim app.js
+ 3347  node app.js
+ 3348  ls
+ 3349  vim test.js
+ 3350  node test.js
+ 3351  node app.js
+ 3352  ls
+ 3353  cd rooutes
+ 3354  ls
+ 3355  cd routes
+ 3356  pwd
+ 3357  ls
+ 3358  vim router.js
+ 3359  cd ..
+ 3360  pwd
+ 3361  dir
+ 3362  ls
+ 3363  node app.js
+ 3364  cd Documents/GitHub/Weebrary
+ 3365  node app.js
+ 3366  cd ..
+ 3367  cd Desktop/weeb-repo
+ 3368  node app.js
+ 3369  npm i
+ 3370  node app.js
+ 3371  cd ..
+ 3372  cd Documents/GitHub/Weebrary
+ 3373  node app.js
+ 3374  cd Documents/GitHub/Weebrary
+ 3375  node app.js
+ 3376  npm install cors multer multer-gridfs-storage
+ 3377  node app.js
+ 3378  rm -rf node_modules/
+ 3379  npm update
+ 3380  node app.js
+ 3381  rm -rf node_modules/
+ 3382  node app.js
+ 3383  rm -rf node_modules/
+ 3384  npm update
+ 3385  node app.js
+ 3386  cd Documents/GitHub/Weebrary
+ 3387  node app.js
+ 3388  npm update
+ 3389  node app.js
+ 3390  rm -rf node_modules/
+ 3391  npm update
+ 3392  node app.js
+ 3393  cd ..
+ 3394  cd Desktop/date
+ 3395  node app.js
+ 3396  rm -rf node_modules/
+ 3397  npm update
+ 3398  node app.js
+ 3399  npm install multer
+ 3400  cd Desktop/date
+ 3401  npm multer
+ 3402  npm install multer
+ 3403  node app.js
+ 3404  npm install multer-gridfs-storage
+ 3405  npm install --save multer
+ 3406  node app.js
+ 3407  cd Desktop/date
+ 3408  node app.js
+ 3409  cd Desktop/date
+ 3410  node app.js
+ 3411  npm install multer
+ 3412  node app.js
+ 3413  npm install cookie-parser
+ 3414  npm install jsonwebtoken
+ 3415  cd..
+ 3416  cd ..
+ 3417  cd Profile
+ 3418  nope app.ks
+ 3419  node app.js
+ 3420  npm install multer
+ 3421  cd Desktop/Profile
+ 3422  node app.js
+ 3423  brew install --cask flutter
+ 3424  cd "/Users/paulaenxi/Desktop/Programs/test/" && gcc test.c -o test && "/Users/paulaenxi/Desktop/Programs/test/"test
+ 3425  npm start
+ 3426  clear
+ 3427  cd frontend
+ 3428  npm i
+ 3429  npm run start
+ 3430  cd backend
+ 3431  cd ..
+ 3432  cd backend
+ 3433  npm i
+ 3434  npm run
+ 3435  cd frontend
+ 3436  cd ..
+ 3437  cd frontend
+ 3438  npm i
+ 3439  npm run start
+ 3440  cd backend
+ 3441  cd frontend
+ 3442  cd backend
+ 3443  npm i
+ 3444  npm run dev
+ 3445  npm run start
+ 3446  npm run dev
+ 3447  git pull
+ 3448  cd backend
+ 3449  npm i
+ 3450  npm run dev
+ 3451  cd Desktop
+ 3452  mkdir workshop-arw
+ 3453  cd workshop-arw
+ 3454  npx create-react-app .
+ 3455  cd backend
+ 3456  npm i
+ 3457  npm run dev
+ 3458  cd ..
+ 3459  npm i -g nodemon
+ 3460  cd backend
+ 3461  npm i
+ 3462  npm run dev
+ 3463  cd ..
+ 3464  cd .\backend\\nsfd
+ 3465  cd backend
+ 3466  npm run dev
+ 3467  npm i
+ 3468  npm run dev
+ 3469  cd frontend
+ 3470  npm i
+ 3471  npm audit fix --force
+ 3472  npm install -g nodemon
+ 3473  npm install --save-dev nodemon
+ 3474  npm run dev
+ 3475  cd Documents
+ 3476  cd GitHub
+ 3477  cd ARW-2023
+ 3478  cd backend
+ 3479  npm i
+ 3480  npm run dev
+ 3481  npm install -g nodemon
+ 3482  npm install --save-dev nodemon
+ 3483  npm run dev
+ 3484  nodemon --version
+ 3485  npm link nodemon
+ 3486  npm run dev
+ 3487  cd backend
+ 3488  npm i
+ 3489  npm run dev
+ 3490  set
+ 3491  SET NODE_ENV=development && nodemon index.js
+ 3492  set NODE_ENV=development && nodemon index.js
+ 3493  cd frontend
+ 3494  npm i
+ 3495  npm run start
+ 3496  clear
+ 3497  cd backend
+ 3498  npm i
+ 3499  npm run dev
+ 3500  set NODE_ENV=0 && nodemon index.js
+ 3501  cd frontend
+ 3502  npm i
+ 3503  npm run start
+ 3504  cd backend
+ 3505  npm i
+ 3506  npm run dev
+ 3507  set NODE_ENV=0 && nodemon index.js
+ 3508  cd frontend
+ 3509  npm i
+ 3510  npm run start
+ 3511  cd backend
+ 3512  npm i
+ 3513  npm run dev
+ 3514  set NODE_ENV=0 && nodemon index.js
+ 3515  cd frontend
+ 3516  npm i
+ 3517  npm run start
+ 3518  cd backend
+ 3519  npm i
+ 3520  npm run dev
+ 3521  set NODE_ENV=0 && nodemon index.js
+ 3522  cd frontend
+ 3523  npm i
+ 3524  npm run start
+ 3525  cd backend
+ 3526  npm i
+ 3527  npm run dev
+ 3528  set NODE_ENV=0 && nodemon index.js
+ 3529  cd frontend
+ 3530  npm i
+ 3531  npm run start
+ 3532  cd backend
+ 3533  npm i
+ 3534  npm run dev
+ 3535  cd frontend
+ 3536  npm i
+ 3537  npm run start
+ 3538  npm i
+ 3539  npm run dev
+ 3540  set NODE_ENV=0 && nodemon index.js
+ 3541  npm i
+ 3542  npm run start
+ 3543  cd backend
+ 3544  npm i
+ 3545  npm run prod
+ 3546  set NODE_ENV=1 && nodemon index.js
+ 3547  cd frontend
+ 3548  npm i
+ 3549  npm run start
+ 3550  cd backend
+ 3551  npm i
+ 3552  npm run prod
+ 3553  set NODE_ENV=1 && nodemon index.js
+ 3554  cd backend
+ 3555  npm i
+ 3556  npm run prod
+ 3557  set NODE_ENV=1 && nodemon index.js
+ 3558  cd frontend
+ 3559  npm i
+ 3560  npm run start
+ 3561  run indiv_org
+ 3562  cd backend
+ 3563  npm i
+ 3564  npm run prod
+ 3565  set NODE_ENV=1 && nodemon index.js
+ 3566  cd frontend
+ 3567  npm i
+ 3568  npm run start
+ 3569  cd backend
+ 3570  npm i
+ 3571  npm run prod
+ 3572  set NODE_ENV=1 && nodemon index.js
+ 3573  cd frontend
+ 3574  npm i
+ 3575  npm run start
+ 3576  cd backend
+ 3577  npm i
+ 3578  npm run prod
+ 3579  set NODE_ENV=1 && nodemon index.js
+ 3580  cd frontend
+ 3581  npm i
+ 3582  npm run start
+ 3583  cd backend
+ 3584  npm i
+ 3585  npm run prod
+ 3586  set NODE_ENV=1 && nodemon index.js
+ 3587  cd frontend
+ 3588  npm i
+ 3589  npm run start
+ 3590  cd frontend
+ 3591  npm i
+ 3592  npm run start
+ 3593  npm run dev
+ 3594  cd backend
+ 3595  npm run dev
+ 3596  npm i
+ 3597  npm run dev
+ 3598  cd backend
+ 3599  npm i
+ 3600  npm run start
+ 3601  history
+ 3602  npm run dev
+ 3603  cd frontend
+ 3604  npm i
+ 3605  npm run start
+ 3606  npm start
+ 3607  npm star
+ 3608  history
+ 3609  npm run dev
+ 3610  cd backend
+ 3611  clear
+ 3612  npm i
+ 3613  npm run dev
+ 3614  cd frontend
+ 3615  npm i
+ 3616  npm run dev
+ 3617  cd backend
+ 3618  npm i
+ 3619  npm run dev
+ 3620  cd frontend
+ 3621  npm i
+ 3622  npm run dev
+ 3623  cd backend
+ 3624  npm run dev
+ 3625  cd frontend
+ 3626  npm run dev
+ 3627  npm i
+ 3628  npm run dev
+ 3629  clear
+ 3630  javac ChatServer.java
+ 3631  clear
+ 3632  javac ChatServer.java
+ 3633  java ChatServer 4000
+ 3634  clear
+ 3635  javac ChatServer.java
+ 3636  java ChatServer 4000
+ 3637  javac ChatClient.java
+ 3638  java ChatClient localhost 4000 "Alice" "Wait, it's all sockets?"
+ 3639  clear
+ 3640  javac ChatServer.java
+ 3641  java ChatServer 4000
+ 3642  javac ChatClient.java
+ 3643  java ChatClient localhost 4000 "Alice" "Wait, it's all sockets?"
+ 3644  clear
+ 3645  javac ChatServer.java
+ 3646  java ChatServer 4000
+ 3647  javac ChatClient.java
+ 3648  java ChatClient localhost 4000 "Alice" "Wait, it's all sockets?"
+ 3649  javac ChatClient.java
+ 3650  java ChatClient localhost 4000 "Bob" "Always has been."
+ 3651  y
+ 3652  cd frontend
+ 3653  npi run
+ 3654  npm run
+ 3655  npm i
+ 3656  cd backend
+ 3657  nom i
+ 3658  npm i
+ 3659  npm run dev
+ 3660  cd backend
+ 3661  npm i
+ 3662  npm run dev
+ 3663  cd frontend
+ 3664  npm i
+ 3665  npm run dev
+ 3666  cd backend
+ 3667  npm i
+ 3668  npm run dev
+ 3669  cd frontend
+ 3670  npm i
+ 3671  npm run dev
+ 3672  cd Desktop
+ 3673  cd Programs
+ 3674  mkdir Alabang
+ 3675  cd Alabang
+ 3676  npx create-react-app
+ 3677  create-react-app alabang-app
+ 3678  npx create-react-app alabang-app
+ 3679  cd alabang-app
+ 3680  npm start
+ 3681  cd frontend
+ 3682  cd backend
+ 3683  npm i
+ 3684  npm run dev
+ 3685  npm i
+ 3686  npm run dev
+ 3687  npm i
+ 3688  npm run dev
+ 3689  npm i
+ 3690  npm run dev
+ 3691  cd backend
+ 3692  npm i
+ 3693  npm run dev
+ 3694  cd frontend
+ 3695  npm i
+ 3696  npm run dev
+ 3697  cd backend
+ 3698  npm i
+ 3699  npm run dev
+ 3700  cd frontend
+ 3701  npm i
+ 3702  npm run dev
+ 3703  cd backend
+ 3704  npm i
+ 3705  npm run dev
+ 3706  cd frontend
+ 3707  npm i
+ 3708  npm run dev
+ 3709  cd backend
+ 3710  npm i
+ 3711  npm run dev
+ 3712  cd ..
+ 3713  cd frontend
+ 3714  npm i
+ 3715  npm run dev
+ 3716  cd backend
+ 3717  npm i
+ 3718  npm run dev
+ 3719  cd frontend
+ 3720  npm i
+ 3721  npm run dev
+ 3722  cd backend
+ 3723  npm i
+ 3724  npm run dev
+ 3725  cd ..
+ 3726  cd frontend
+ 3727  npm i
+ 3728  npm run dev
+ 3729  javac Main.java
+ 3730  cd src
+ 3731  ls
+ 3732  cd CacheSimulation
+ 3733  cd src
+ 3734  javac Main.java
+ 3735  Main
+ 3736  java Main
+ 3737  cd backend
+ 3738  npm i
+ 3739  npm run dev
+ 3740  cd frontend
+ 3741  npm i
+ 3742  npm run dev
+ 3743  cd backend
+ 3744  np i
+ 3745  npm i
+ 3746  npm run dev
+ 3747  cd frontend
+ 3748  npm i
+ 3749  npm run dev
+ 3750  cd CacheSimulation
+ 3751  javac Main.java
+ 3752  ls
+ 3753  cd ..
+ 3754  cd CacheSimulation/src
+ 3755  javac Main.java
+ 3756  java Main
+ 3757  javac Main.java
+ 3758  java Main
+ 3759  javac Main.java
+ 3760  java Main
+ 3761  javac Main.java
+ 3762  java Main
+ 3763  javac Main.java
+ 3764  java Main
+ 3765  javac Main.java
+ 3766  java Main
+ 3767  javac Main.java
+ 3768  java Main
+ 3769  clear
+ 3770  javac Main.java
+ 3771  java Main
+ 3772  javac Main.java
+ 3773  java Main
+ 3774  javac Main.java
+ 3775  java Main
+ 3776  javac Main.java
+ 3777  java Main
+ 3778  javac Main.java
+ 3779  java Main
+ 3780  javac Main.java
+ 3781  java Main
+ 3782  javac Main.java
+ 3783  java Main
+ 3784  javac Main.java
+ 3785  java Main
+ 3786  javac Main.java
+ 3787  java Main
+ 3788  javac Main.java
+ 3789  java Main
+ 3790  javac Main.java
+ 3791  java Main
+ 3792  javac Main.java
+ 3793  java Main
+ 3794  javac Main.java
+ 3795  java Main
+ 3796  javac Main.java
+ 3797  java Main
+ 3798  javac Main.java
+ 3799  java Main
+ 3800  javac Main.java
+ 3801  java Main
+ 3802  javac Main.java
+ 3803  java Main
+ 3804  javac Main.java
+ 3805  java Main
+ 3806  javac Main.java
+ 3807  java Main
+ 3808  javac Main.java
+ 3809  java Main
+ 3810  javac Main.java
+ 3811  java Main
+ 3812  javac Main.java
+ 3813  java Main
+ 3814  javac Main.java
+ 3815  java Main
+ 3816  javac Main.java
+ 3817  java Main
+ 3818  javac Main.java
+ 3819  java Main
+ 3820  javac Main.java
+ 3821  java Main
+ 3822  javac Main.java
+ 3823  java Main
+ 3824  javac Main.java
+ 3825  java Main
+ 3826  javac Main.java
+ 3827  java Main
+ 3828  javac Main.java
+ 3829  java Main
+ 3830  javac Main.java
+ 3831  java Main
+ 3832  javac Main.java
+ 3833  java Main
+ 3834  javac Main.java
+ 3835  java Main
+ 3836  javac Main.java
+ 3837  java Main
+ 3838  javac Main.java
+ 3839  java Main
+ 3840  javac Main.java
+ 3841  java Main
+ 3842  javac Main.java
+ 3843  java Main
+ 3844  javac Main.java
+ 3845  java Main
+ 3846  javac Main.java
+ 3847  java Main
+ 3848  javac Main.java
+ 3849  java Main
+ 3850  javac Main.java
+ 3851  java Main
+ 3852  javac Main.java
+ 3853  java Main
+ 3854  javac Main.java
+ 3855  java Main
+ 3856  javac Main.java
+ 3857  java Main
+ 3858  javac Main.java
+ 3859  javac Main.java && java Main
+ 3860  clear
+ 3861  javac Main.java && java Main
+ 3862  ^[OA
+ 3863  javac Main.java && java Main
+ 3864  clear
+ 3865  javac Main.java && java Main
+ 3866  clear
+ 3867  javac Main.java && java Main
+ 3868  cd CacheSimulation/src
+ 3869  javac Main.java && java Main
+ 3870  cleaar
+ 3871  clear
+ 3872  javac Main.java && java Main
+ 3873  clear
+ 3874  javac Main.java && java Main
+ 3875  clear
+ 3876  javac Main.java && java Main
+ 3877  cd CacheSimulation/src
+ 3878  javac Main.java && java Main
+ 3879  cd CacheSimulation/src
+ 3880  javac Main.java && java Main
+ 3881  cd backend
+ 3882  npm i
+ 3883  npm run dev
+ 3884  cd frontend
+ 3885  npm i
+ 3886  npm run dev
+ 3887  cd backend
+ 3888  npm i
+ 3889  npm run dev
+ 3890  cd frontend
+ 3891  npm i
+ 3892  npm run dev
+ 3893  cd backend
+ 3894  npm run dev
+ 3895  cd frontend
+ 3896  npm run dev
+ 3897  cd backend
+ 3898  npm i
+ 3899  npm run dev
+ 3900  cd frontend
+ 3901  npm i
+ 3902  npm run dev
+ 3903  clear
+ 3904  npm run dev
+ 3905  clear
+ 3906  npm run dev
+ 3907  cd backend
+ 3908  npm run dev
+ 3909  cd frontend
+ 3910  npm run dev
+ 3911  cd backend
+ 3912  npm i
+ 3913  npm run dev
+ 3914  cd frontend
+ 3915  npm i
+ 3916  npm run dev
+ 3917  pip3 install fuzzywuzzy
+ 3918  clear
+ 3919  python qualitative.psy
+ 3920  clear
+ 3921  python ./qualitative.py
+ 3922  pip ./qualitative.py
+ 3923  pip3 qualitative.py
+ 3924  clear
+ 3925  python3 main.py
+ 3926  clear
+ 3927  python3 main.py
+ 3928  clear
+ 3929  python3 main.py
+ 3930  pip install python-levenshtein
+ 3931  clear
+ 3932  python3 main.py
+ 3933  clear
+ 3934  python3 main.py
+ 3935  python3 test.py
+ 3936  pip3 install pandas
+ 3937  clear
+ 3938  python3 test.py
+ 3939  clear
+ 3940  python3 cleaner.py
+ 3941  clear
+ 3942  python3 cleaner.py
+ 3943  clear
+ 3944  python3 cleaner.py
+ 3945  clear
+ 3946  python3 main.py
+ 3947  clear
+ 3948  python3 main.py
+ 3949  cd backend
+ 3950  npm run dev
+ 3951  cd frontend
+ 3952  npm run dev
+ 3953  cd backend
+ 3954  npm run dev
+ 3955  cd frontend
+ 3956  npm run dev
+ 3957  cd backend
+ 3958  npm run dev
+ 3959  cd frontend
+ 3960  npm run dev
+ 3961  clear
+ 3962  npm run dev
+ 3963  python3 CSNETWK-WebServer.py
+ 3964  clear
+ 3965  python3 CSNETWK-WebServer.py
+ 3966  clear
+ 3967  python3 CSNETWK-WebServer.py
+ 3968  cd CacheSimulation/src
+ 3969  javac Main.java
+ 3970  java Main
+ 3971  javac Main.java
+ 3972  java Main
+ 3973  javac Main.java
+ 3974  java Main
+ 3975  javac Main.java
+ 3976  java Main
+ 3977  javac Main.java
+ 3978  java Main
+ 3979  javac Main.java
+ 3980  java Main
+ 3981  python3 main.py
+ 3982  cd CacheSimulation/src
+ 3983  javac Main.java
+ 3984  java Main
+ 3985  javac Main.java
+ 3986  java Main
+ 3987  clear
+ 3988  java Main
+ 3989  javac Main.java
+ 3990  java Main
+ 3991  javac Main.java
+ 3992  java Main
+ 3993  javac Main.java
+ 3994  java Main
+ 3995  javac Main.java
+ 3996  java Main
+ 3997  javac Main.java
+ 3998  java Main
+ 3999  clear
+ 4000  javac Main.java
+ 4001  cd CacheSimulation/src
+ 4002  javac Main.java
+ 4003  java Main
+ 4004  javac Main.java
+ 4005  java Main
+ 4006  javac Main.java
+ 4007  java Main
+ 4008  javac Main.java
+ 4009  java Main
+ 4010  javac Main.java
+ 4011  java Main
+ 4012  javac Main.java
+ 4013  java Main
+ 4014  javac Main.java
+ 4015  java Main
+ 4016  javac Main.java
+ 4017  java Main
+ 4018  javac Main.java
+ 4019  java Main
+ 4020  javac Main.java
+ 4021  java Main
+ 4022  javac Main.java
+ 4023  java Main
+ 4024  javac Main.java
+ 4025  java Main
+ 4026  clear
+ 4027  javac Main.java
+ 4028  java Main
+ 4029  javac Main.java
+ 4030  java Main
+ 4031  javac Main.java
+ 4032  java Main
+ 4033  javac Main.java
+ 4034  java Main
+ 4035  javac Main.java
+ 4036  java Main
+ 4037  cd Downloads
+ 4038  CacheSimulation.jar
+ 4039  java -jar CacheSimulation.jar
+ 4040  cd ..
+ 4041  cd  GitHub
+ 4042  cd Document/GitHub/CacheSimulation
+ 4043  cd Documents
+ 4044  cd GitHub
+ 4045  cd CacheSimulation
+ 4046  cd ..
+ 4047  cd CacheSimulation
+ 4048  clear
+ 4049  cd out
+ 4050  cd artifcats
+ 4051  cd artifacts
+ 4052  clear
+ 4053  ls
+ 4054  java -jar CacheSimulation.jar
+ 4055  cd CacheSimulation_jar
+ 4056  clear
+ 4057  java -jar jarfilename.jar
+ 4058  clear
+ 4059  java -jar CacheSimulation.jar
+ 4060  cd Documents/GitHub/CacheSimulation
+ 4061  cd src
+ 4062  cd CacheSimulation/src
+ 4063  clear
+ 4064  java -jar CacheSimulation.jar
+ 4065  java --version
+ 4066  cd Documents/GitHub/CacheSimulation/src
+ 4067  cd Documents
+ 4068  cd GitHub
+ 4069  cd CacheSimulator
+ 4070  ls
+ 4071  cd CacheSimulation
+ 4072  ls
+ 4073  cd CacheSimulation/src
+ 4074  clear
+ 4075  los
+ 4076  ls
+ 4077  javac Main.java
+ 4078  Main-Class: Main
+ 4079  Main.class
+ 4080  jar cfm Main.jar Manifest.txt Main.class
+ 4081  java -jar Main.jar
+ 4082  jar cfm Main.jar Manifest.txt Main.class
+ 4083  java -jar Main.jar
+ 4084  jar cfm Main.jar Manifest.txt Main.class
+ 4085  java -jar Main.jar
+ 4086  jar cfm Main.jar Manifest.txt Main.class
+ 4087  java -jar Main.jar
+ 4088  cd Downloads
+ 4089  java -jar Java
+ 4090  java -jar Java.jar
+ 4091  java -jar CacheSimulation.jar
+ 4092  clear
+ 4093  javac -jar CacheSimulation.jar
+ 4094  history
+ 4095  clear
+ 4096  java -jar Java.jar
+ 4097  clear
+ 4098  java -jar CacheSimulation.jar
+ 4099  clear
+ 4100  java -jar CacheSimulation.jar
+ 4101  clear
+ 4102  cd ..
+ 4103  cd CacheSimulation
+ 4104  cd Desktop
+ 4105  cd CacheSimulation
+ 4106  java -jar CacheSimulation.jar
+ 4107  clear
+ 4108  java -jar CacheSimulation.jar
+ 4109  clear
+ 4110  java -jar CacheSimulation.jar
+ 4111  clear
+ 4112  java -jar CacheSimulation.jar
+ 4113  mongod --version
+ 4114  python3 main.py
+ 4115  clear
+ 4116  python3 main.py
+ 4117  clear
+ 4118  python3 main.py
+ 4119  clear
+ 4120  python3 main.py
+ 4121  clear
+ 4122  python3 main.py
+ 4123  python3 main2.py
+ 4124  clear
+ 4125  python3 main2.py
+ 4126  clear
+ 4127  python3 main2.py
+ 4128  clear
+ 4129  python3 main.py
+ 4130  clear
+ 4131  python3 main.py
+ 4132  clear
+ 4133  python3 main.py
+ 4134  clear
+ 4135  python3 main.py
+ 4136  cd backend
+ 4137  npm i
+ 4138  npm run dev
+ 4139  cd ..
+ 4140  cd frontend
+ 4141  npm i
+ 4142  npm run dev
+ 4143  cd backend
+ 4144  npm i
+ 4145  npm run dev
+ 4146  cd frontend
+ 4147  npm i
+ 4148  npm run dev
+ 4149  git switch -c reco-final
+ 4150  python3 main.py
+ 4151  cd backend
+ 4152  npm i
+ 4153  npm run dev
+ 4154  cd frontend
+ 4155  npm i
+ 4156  npm run dev
+ 4157  javac Main.java
+ 4158  cd CacheSimulation/src
+ 4159  javac Main.java
+ 4160  java Main
+ 4161  javac Main.java
+ 4162  javac Main.java && java Main
+ 4163  cd Documentts
+ 4164  cd Documents
+ 4165  cd GitHub
+ 4166  cd CacheSimulatioon
+ 4167  cd CacheSimulation
+ 4168  ls
+ 4169  clear
+ 4170  java -jar CacheSimulaionNew.jar
+ 4171  java -jar CacheSimulationNew
+ 4172  java -jar CacheSimulationNew.jar
+ 4173  cd ..
+ 4174  cd Downloads
+ 4175  java -jar CacheSimulationNew.jar
+ 4176  cd Downloads
+ 4177  java -jar CacheSimulationNew.jar
+ 4178  gcc mco2.c
+ 4179  mco2
+ 4180  gcc c -o mco2.exe mco2.c
+ 4181  clear
+ 4182  gcc -o mco2 mco2.c
+ 4183  ./mco2
+ 4184  gcc -o mco2 mco2.c
+ 4185  ./mco2
+ 4186  clear
+ 4187  ./mco2
+ 4188  gcc -o mco2 mco2.c
+ 4189  ./mco2
+ 4190  clear
+ 4191  gcc -o mco2 mco2.c
+ 4192  ./mco2
+ 4193  clear
+ 4194  gcc -o mco2 mco2.c
+ 4195  ./mco2
+ 4196  clear
+ 4197  gcc -o mco2 mco2.c
+ 4198  ./mco2
+ 4199  clear
+ 4200  gcc -o mco2 mco2.c
+ 4201  ./mco2
+ 4202  clear
+ 4203  gcc -o mco2 mco2.c
+ 4204  ./mco2
+ 4205  gcc -o mco2 mco2.c
+ 4206  ./mco2
+ 4207  gcc -o mco2 mco2.c
+ 4208  ./mco2
+ 4209  clear
+ 4210  gcc -o mco2 mco2.c
+ 4211  ./mco2
+ 4212  gcc -o mco2 mco2.c
+ 4213  ./mco2
+ 4214  clear
+ 4215  gcc -o mco2 mco2.c
+ 4216  ./mco2
+ 4217  gcc -o mco2 mco2.c
+ 4218  ./mco2
+ 4219  gcc -o mco2 mco2.c
+ 4220  ./mco2
+ 4221  gcc -o mco2 mco2.c
+ 4222  ./mco2
+ 4223  gcc -o mco2 mco2.c
+ 4224  ./mco2
+ 4225  gcc -o mco2 mco2.c
+ 4226  ./mco2
+ 4227  gcc -o mco2 mco2.c
+ 4228  ./mco2
+ 4229  clear
+ 4230  gcc -o mco2 mco2.c
+ 4231  ./mco2
+ 4232  gcc -o mco2 mco2.c
+ 4233  ./mco2
+ 4234  clear
+ 4235  gcc -o mco2 mco2.c
+ 4236  ./mco2
+ 4237  gcc -o mco2 mco2.c
+ 4238  ./mco2
+ 4239  gcc -o mco2 mco2.c
+ 4240  ./mco2
+ 4241  gcc -o mco2 mco2.c
+ 4242  ./mco2
+ 4243  gcc -o mco2 mco2.c
+ 4244  ./mco2
+ 4245  gcc -o mco2 mco2.c
+ 4246  ./mco2
+ 4247  gcc -o mco2 mco2.c
+ 4248  ./mco2
+ 4249  gcc -o mco2 mco2.c
+ 4250  ./mco2
+ 4251  gcc -o mco2 mco2.c
+ 4252  ./mco2
+ 4253  clear
+ 4254  gcc -o mco2 mco2.c
+ 4255  ./mco2
+ 4256  gcc -o mco2 mco2.c
+ 4257  ./mco2
+ 4258  gcc -o mco2 mco2.c
+ 4259  ./mco2
+ 4260  gcc -o mco2 mco2.c
+ 4261  ./mco2
+ 4262  gcc -o mco2 mco2.c
+ 4263  ./mco2
+ 4264  gcc -o mco2 mco2.c
+ 4265  ./mco2
+ 4266  gcc -o mco2 mco2.c
+ 4267  ./mco2
+ 4268  gcc -o mco2 mco2.c
+ 4269  ./mco2
+ 4270  gcc -o mco2 mco2.c
+ 4271  ./mco2
+ 4272  gcc -o mco2 mco2.c
+ 4273  ./mco2
+ 4274  gcc -o mco2 mco2.c
+ 4275  ./mco2
+ 4276  gcc -o mco2 mco2.c
+ 4277  ./mco2
+ 4278  gcc -o mco2 mco2.c
+ 4279  ./mco2
+ 4280  gcc -o mco2 mco2.c
+ 4281  ./mco2
+ 4282  gcc -o mco2 mco2.c
+ 4283  ./mco2
+ 4284  gcc -o mco2 mco2.c
+ 4285  ./mco2
+ 4286  gcc -o mco2 mco2.c
+ 4287  ./mco2
+ 4288  gcc -o mco2 mco2.c
+ 4289  ./mco2
+ 4290  gcc -o mco2 mco2.c
+ 4291  ./mco2
+ 4292  gcc -o mco2 mco2.c
+ 4293  ./mco2
+ 4294  gcc -o mco2 mco2.c
+ 4295  gcc -o mco2 mco2.c && ./mco2
+ 4296  clear
+ 4297  gcc -o mco2 mco2.c && ./mco2
+ 4298  javac Client.java
+ 4299  mvn -version
+ 4300  mvn -ver
+ 4301  brew install maven
+ 4302  mvn archetype:generate \\ncom.google.code.gson
+ 4303  mvn archetype:generate
+ 4304  clear
+ 4305  export CLASSPATH=$CLASSPATH:$GSON_HOME/gson-2.8.6.jar:.
+ 4306  python cleaner.py
+ 4307  python3 cleaner.py
+ 4308  clear
+ 4309  python3 cleaner.py
+ 4310  clear
+ 4311  python3 cleaner.py
+ 4312  python3 main.py
+ 4313  clear
+ 4314  python3 main.py
+ 4315  clear
+ 4316  python3 process.py
+ 4317  python3 main.py
+ 4318  clear
+ 4319  python3 main.py
+ 4320  clear
+ 4321  python3 main.py
+ 4322  python3 process.py
+ 4323  python3 main.py
+ 4324  clear
+ 4325  python3 main.py
+ 4326  python3 process.py
+ 4327  python3 main.py
+ 4328  python3 process.py
+ 4329  history
+ 4330  gcc -o mp cfile.c
+ 4331  clear
+ 4332  gcc -o mp cfile.c
+ 4333  clear
+ 4334  gcc -o mp cfile.c
+ 4335  cd frontend
+ 4336  npm i
+ 4337  cd backend
+ 4338  npm i
+ 4339  npm run dev
+ 4340  javac FileExchangeServer.java
+ 4341  ls
+ 4342  cd SRC
+ 4343  cd ..
+ 4344  cd src
+ 4345  clr
+ 4346  cls
+ 4347  clr
+ 4348  clear
+ 4349  javac FileExchangeServer.java
+ 4350  java FileExchangeServer
+ 4351  javac FileExchangeClient.java
+ 4352  java FileExchangeClient
+ 4353  cd src
+ 4354  java FileExchangeServer
+ 4355  clear
+ 4356  javac FileExchangeServer.java
+ 4357  java FileExchangeServer
+ 4358  cd src
+ 4359  javac FileExchangeClient.java
+ 4360  java FileExchangeClient
+ 4361  clear
+ 4362  java FileExchangeClient
+ 4363  clear
+ 4364  javac FileExchangeClient.java
+ 4365  java FileExchangeClient
+ 4366  clear
+ 4367  javac FileExchangeClient.java
+ 4368  java FileExchangeClient
+ 4369  clear
+ 4370  javac FileExchangeClient.java
+ 4371  java FileExchangeClient
+ 4372  javac FileExchangeClient.java
+ 4373  java FileExchangeClient
+ 4374  clear
+ 4375  javac FileExchangeClient.java
+ 4376  clear
+ 4377  javac FileExchangeServer.java
+ 4378  java FileExchangeServer
+ 4379  javac FileExchangeClient.java
+ 4380  clear
+ 4381  java FileExchangeClient
+ 4382  clear
+ 4383  javac FileExchangeServer.java
+ 4384  java FileExchangeServer
+ 4385  javac FileExchangeClient.java
+ 4386  java FileExchangeClient
+ 4387  clear
+ 4388  javac FileExchangeClient.java
+ 4389  java FileExchangeClient
+ 4390  clear
+ 4391  javac FileExchangeClient.java
+ 4392  java FileExchangeClient
+ 4393  clear
+ 4394  java FileExchangeClient
+ 4395  clear
+ 4396  java FileExchangeClient
+ 4397  clear
+ 4398  javac FileExchangerServer.java
+ 4399  ls
+ 4400  clear
+ 4401  dir
+ 4402  clear
+ 4403  ls
+ 4404  javac FileExchangerServer.java
+ 4405  clear
+ 4406  javac FileExchangeServer.java
+ 4407  clear
+ 4408  java FileExchangeServer
+ 4409  javac FileExchangeClient
+ 4410  clear
+ 4411  javac FileExchangeClient.java
+ 4412  java FileExchangeClient
+ 4413  clear
+ 4414  javac FileExchangeServer.java
+ 4415  java FileExchangeServer
+ 4416  javac FileExchangeClient.java
+ 4417  java FileExchangeClient
+ 4418  clear
+ 4419  javac FileExchangeServer.java
+ 4420  clear
+ 4421  java FileExchangeServer
+ 4422  javac FileExchangeClient.java
+ 4423  java FileExchangeClient
+ 4424  clear
+ 4425  javac FileExchangeServer.java
+ 4426  java FileExchangeServer
+ 4427  javac FileExchangeClient.java
+ 4428  java FileExchangeClient
+ 4429  clear
+ 4430  javac FileExchangeServer.java
+ 4431  clear
+ 4432  javac FileExchangeServer.java
+ 4433  java FileExchangeServer
+ 4434  javac FileExchangeClient.java
+ 4435  java FileExchangeClient
+ 4436  clear
+ 4437  javac FileExchangeServer.java
+ 4438  java FileExchangeServer
+ 4439  javac FileExchangeClient.java
+ 4440  java FileExchangeClient
+ 4441  clear
+ 4442  javac FileExchangeServer.java
+ 4443  java FileExchangeServer
+ 4444  javac FileExchangeClient.java
+ 4445  java FileExchangeClient
+ 4446  javac FileExchangeClient.java
+ 4447  clear
+ 4448  cd src
+ 4449  clear
+ 4450  java FileExchangeClient
+ 4451  cd src
+ 4452  java FileExchangeClient
+ 4453  clear
+ 4454  javac FileExchangeServer.java
+ 4455  java FileExchangeServer
+ 4456  cd src
+ 4457  javac FileExchangeClient
+ 4458  javac FileExchangeClient.java
+ 4459  clear
+ 4460  java FileExchangeClient
+ 4461  cd src
+ 4462  java FileExchangeClient
+ 4463  cd src
+ 4464  javac FileExchangeServer.java
+ 4465  java FileExchangeServer
+ 4466  cd src
+ 4467  java FileExchangeClient
+ 4468  cd src
+ 4469  java FileExchangeClient
+ 4470  clear
+ 4471  javac FileExchangeServer.java
+ 4472  java FileExchangeServer
+ 4473  cd src
+ 4474  javac FileExchangeClient.java
+ 4475  java FileExchangeClient
+ 4476  cd src
+ 4477  java FileExchangeClient
+ 4478  cd src
+ 4479  javac FileExchangeServer.java
+ 4480  java FileExchangeServer
+ 4481  cd src
+ 4482  java FileExchangeClient
+ 4483  cd src
+ 4484  java FileExchangeClient
+ 4485  java FileExchangeServer
+ 4486  cd src
+ 4487  javac FileExchangeClient.java
+ 4488  java FileExchangeClient
+ 4489  cd src
+ 4490  javac FileExchangeClient.java
+ 4491  java FileExchangeClient
+ 4492  clear
+ 4493  javac FileExchangeClient.java
+ 4494  java FileExchangeClient
+ 4495  clear
+ 4496  java FileExchangeClient
+ 4497  cd src
+ 4498  javac FileExchangeServer.java
+ 4499  java FileExchangeServer
+ 4500  cd src
+ 4501  javac FileExchangeClient
+ 4502  clear
+ 4503  javac FileExchangeClient.java
+ 4504  java FileExchangeClient
+ 4505  cd src
+ 4506  javac FileExchangeClient.java
+ 4507  java FileExchangeClient
+ 4508  clear
+ 4509  javac FileExchangeServer.java
+ 4510  java FileExchangeServer
+ 4511  javac FileExchangeClient.java
+ 4512  clear
+ 4513  cd src
+ 4514  clear
+ 4515  javac FileExchangeClient.java
+ 4516  java FileExchangeClient
+ 4517  javac FileExchangeClient.java
+ 4518  clear
+ 4519  cd src
+ 4520  clear
+ 4521  javac FileExchangeClient.java
+ 4522  java FileExchangeClient
+ 4523  clear
+ 4524  javac FileExchangeServer.java
+ 4525  java FileExchangeServer
+ 4526  cd src
+ 4527  javac FileExchangeClient.java
+ 4528  java FileExchangeClient
+ 4529  cd src
+ 4530  javac FileExchangeClient.java
+ 4531  java FileExchangeClient
+ 4532  clear
+ 4533  javac FileExchangeFrame.java
+ 4534  java FileExchangeFrame
+ 4535  clear
+ 4536  javac FileExchangeServer.java
+ 4537  java FileExchangeServer
+ 4538  cd src
+ 4539  javac FileExchangeClient.java
+ 4540  java FileExchangeClient
+ 4541  javac FileExchangeClient.java
+ 4542  java FileExchangeClient
+ 4543  clear
+ 4544  javac FileExchangeClient.java
+ 4545  java FileExchangeClient
+ 4546  javac FileExchangeClient.java
+ 4547  java FileExchangeClient
+ 4548  javac Client.java
+ 4549  java Client.java
+ 4550  javac FileExchangeServer.java
+ 4551  cd src
+ 4552  clear
+ 4553  javac FileExchangeServer.java
+ 4554  java FileExchangeServer
+ 4555  cd src
+ 4556  clear
+ 4557  javac FileExchangeClient.java
+ 4558  clear
+ 4559  javac Client.java
+ 4560  java Client
+ 4561  clear
+ 4562  javac Client.java
+ 4563  java Client
+ 4564  clear
+ 4565  javac Client.java
+ 4566  java Client
+ 4567  javac Client.java
+ 4568  java Client
+ 4569  javac Client.java
+ 4570  java Client
+ 4571  clear
+ 4572  javac Client.java
+ 4573  java Client
+ 4574  javac Client.java
+ 4575  java Client
+ 4576  javac Client.java
+ 4577  java Client
+ 4578  javac Client.java
+ 4579  java Client
+ 4580  javac Client.java
+ 4581  java Client
+ 4582  javac Client.java
+ 4583  java Client
+ 4584  javac Client.java
+ 4585  java Client
+ 4586  clear
+ 4587  javac Client.java
+ 4588  java Client
+ 4589  javac Client.java
+ 4590  java Client
+ 4591  javac Client.java
+ 4592  java Client
+ 4593  javac Client.java
+ 4594  java Client
+ 4595  javac Client.java
+ 4596  java Client
+ 4597  javac Client.java
+ 4598  java Client
+ 4599  javac Client.java
+ 4600  java Client
+ 4601  javac Client.java
+ 4602  java Client
+ 4603  cd src
+ 4604  javac FileExchangeServer.java
+ 4605  java FileExchangeServer
+ 4606  cd src
+ 4607  javac Client
+ 4608  clear
+ 4609  javac Client.java
+ 4610  java Client
+ 4611  javac Client.java
+ 4612  java Client
+ 4613  javac Client.java
+ 4614  java Client
+ 4615  javac Client.java
+ 4616  java Client
+ 4617  javac Client.java
+ 4618  java Client
+ 4619  javac Client.java
+ 4620  java Client
+ 4621  cd src
+ 4622  java FileExchangeServer
+ 4623  cd src
+ 4624  javac Client.java
+ 4625  java Client
+ 4626  cd src
+ 4627  javac FileExchangeServer.java
+ 4628  java FileExchangeServer
+ 4629  cd src
+ 4630  javac Client.java
+ 4631  java Client
+ 4632  javac Client.java
+ 4633  java Client
+ 4634  clear
+ 4635  javac Client.java
+ 4636  java Client
+ 4637  javac FileExchangeClient.java
+ 4638  java FileExchangeClient
+ 4639  clear
+ 4640  java FileExchangeServer
+ 4641  javac Client.java
+ 4642  java Client.java
+ 4643  javac Client.java
+ 4644  java Client.java
+ 4645  javac Client.java
+ 4646  java Client
+ 4647  javac Client.java
+ 4648  java Client
+ 4649  javac Client.java
+ 4650  java Client
+ 4651  clear
+ 4652  javac Client.java
+ 4653  java Client
+ 4654  javac Client.java
+ 4655  java Client
+ 4656  clear
+ 4657  javac Client.java
+ 4658  java Client
+ 4659  javac Client.java
+ 4660  java Client
+ 4661  clear
+ 4662  javac Client.java
+ 4663  java Client
+ 4664  javac Client.java
+ 4665  java Client
+ 4666  javac Client.java
+ 4667  java Client
+ 4668  javac Client.java
+ 4669  java Client
+ 4670  javac Client.java
+ 4671  java Client
+ 4672  javac Client.java
+ 4673  java Client
+ 4674  javac Client.java
+ 4675  java Client
+ 4676  javac Client.java
+ 4677  java Client
+ 4678  clear
+ 4679  java FileExchangeServer
+ 4680  javac Client.java
+ 4681  java Client
+ 4682  javac Client.java
+ 4683  java Client
+ 4684  javac Client.java
+ 4685  java Client
+ 4686  javac Client.java
+ 4687  java Client
+ 4688  javac Client.java
+ 4689  java Client
+ 4690  javac Client.java
+ 4691  java Client
+ 4692  javac Client.java
+ 4693  java Client
+ 4694  java FileExchangeClient
+ 4695  clear
+ 4696  java FileExchangeServer
+ 4697  javac Client.java
+ 4698  java Client
+ 4699  clear
+ 4700  java FileExchangeClient
+ 4701  clear
+ 4702  javac Client.java
+ 4703  java Client
+ 4704  javac Client.java
+ 4705  java Client
+ 4706  javac Client.java
+ 4707  java Client
+ 4708  clear
+ 4709  javac Client.java
+ 4710  java Client
+ 4711  clear
+ 4712  javac FileExchangeServer.java
+ 4713  java FileExchangeServer
+ 4714  javac Client.java
+ 4715  java Client
+ 4716  javac Client.java
+ 4717  java Client
+ 4718  clear
+ 4719  javac FileExchangeServer.java
+ 4720  java FileExchangeServer
+ 4721  clear
+ 4722  javac Client.java
+ 4723  java Client
+ 4724  clear
+ 4725  javac Client.java
+ 4726  java Client
+ 4727  clear
+ 4728  javac FileExchangeServer.java
+ 4729  java FileExchangeServer
+ 4730  javac Client.java
+ 4731  java Client
+ 4732  javac Client.java
+ 4733  java Client
+ 4734  javac Client.java
+ 4735  java Client
+ 4736  javac Client.java
+ 4737  java Client
+ 4738  javac Client.java
+ 4739  java Client
+ 4740  clear
+ 4741  cd "/Users/paulaenxi/Documents/GitHub/file-repo/src/" && javac FileExchangeServer.java && java FileExchangeServer
+ 4742  cd "/Users/paulaenxi/Documents/GitHub/file-repo/src/" && javac Client.java && java Client
+ 4743  cd "/Users/paulaenxi/Documents/GitHub/file-repo/src/" && javac FileExchangeServer.java && java FileExchangeServer
+ 4744  cd src
+ 4745  javac FileExchangeServer.java
+ 4746  java FileExchangeServer
+ 4747  cd src
+ 4748  javac Client.java
+ 4749  java Client
+ 4750  javac Client.java
+ 4751  java Client
+ 4752  javac Client.java
+ 4753  java Client
+ 4754  javac Client.java
+ 4755  java Client
+ 4756  clear
+ 4757  javac FileExchangeServer.java
+ 4758  java FileExchangeServer
+ 4759  javac Client.java
+ 4760  java Client
+ 4761  clear
+ 4762  javac FileExchangeServer.java
+ 4763  java FileExchangeServer
+ 4764  javac Client.java
+ 4765  clear
+ 4766  cd "/Users/paulaenxi/Documents/GitHub/file-repo/src/" && javac Client.java && java Client
+ 4767  java FileExchangeServer.java
+ 4768  java Client.java
+ 4769  clear
+ 4770  javac FileExchangeServer.java
+ 4771  java FileExchangeServer
+ 4772  clear
+ 4773  javac Client.java
+ 4774  java Client
+ 4775  javac FileExchangeServer.java
+ 4776  java FileExchangeServer
+ 4777  javac Client.java
+ 4778  java Client
+ 4779  javac FileExchangeServer.java
+ 4780  java FileExchangeServer
+ 4781  javac Client.java
+ 4782  java Client
+ 4783  javac FileExchangeServer.java
+ 4784  java Client
+ 4785  java FileExchangeServer
+ 4786  java Client
+ 4787  clear
+ 4788  javac FileExchangeServer.java
+ 4789  java FileExchangeServer
+ 4790  javac Client.java
+ 4791  java Client
+ 4792  javac Client.java
+ 4793  java Client
+ 4794  clear
+ 4795  javac FileExchangeServer.java
+ 4796  java FileExchangeServer
+ 4797  javac FileExchnageClient.java
+ 4798  clear
+ 4799  cd src
+ 4800  javac FileExchangeClient.java
+ 4801  java FileExchangeClient
+ 4802  cd src
+ 4803  javac FileExchangeClient.java
+ 4804  java FileExchangeClient
+ 4805  cd src
+ 4806  javac FileExchangeServer.java
+ 4807  java FileExchangeServer
+ 4808  javac Client.java
+ 4809  java Client
+ 4810  javac FileExchangeServer.java
+ 4811  java FileExchangeServer
+ 4812  javac Client.java
+ 4813  java Client
+ 4814  clear
+ 4815  javac FileExchangeServer.java
+ 4816  java FileExchangeServer
+ 4817  javac Client.java
+ 4818  java Client
+ 4819  clear
+ 4820  javac FileExchangeServer.java
+ 4821  java FileExchangeServer
+ 4822  javac Client.java
+ 4823  java Client
+ 4824  cd src
+ 4825  javac FileExchangeServer.java
+ 4826  java FileExchangeServer
+ 4827  javac Client.java
+ 4828  java Client
+ 4829  clear
+ 4830  javac FileExchangeServer.java
+ 4831  java FileExchangeServer
+ 4832  javac Client.java
+ 4833  java Client
+ 4834  cd src
+ 4835  java Client
+ 4836  cd src
+ 4837  javac FileExchangeServer.java
+ 4838  java FileExchangeServer
+ 4839  javac Client2.java
+ 4840  java Client2
+ 4841  javac Client2.java
+ 4842  java Client2
+ 4843  javac Client2.java
+ 4844  java Client2
+ 4845  javac Client2.java
+ 4846  java Client2
+ 4847  javac Client2.java
+ 4848  java Client2
+ 4849  clear
+ 4850  javac Client2.java
+ 4851  java Client2
+ 4852  javac Client2.java
+ 4853  java Client2
+ 4854  clear
+ 4855  javac Client2.java
+ 4856  java Client2
+ 4857  javac Client2.java
+ 4858  java Client2
+ 4859  javac Client2.java
+ 4860  java Client2
+ 4861  javac Client2.java
+ 4862  java Client2
+ 4863  javac Client2.java
+ 4864  java Client2
+ 4865  clear
+ 4866  javac FileExchangeServer.java
+ 4867  java FileExchangeServer
+ 4868  clear
+ 4869  javac Client2.java
+ 4870  java Client2
+ 4871  javac Client2.java
+ 4872  java Client2
+ 4873  javac Client2.java
+ 4874  java Client2
+ 4875  javac Client2.java
+ 4876  java Client2
+ 4877  javac Client2.java
+ 4878  java Client2
+ 4879  javac Client2.java
+ 4880  java Client2
+ 4881  javac Client2.java
+ 4882  java Client2
+ 4883  javac Client2.java
+ 4884  java Client2
+ 4885  javac Client2.java
+ 4886  java Client2
+ 4887  javac Client2.java
+ 4888  java Client2
+ 4889  cd FileExchangeServer.java
+ 4890  cd src
+ 4891  clear
+ 4892  javac FileExchangeServer.java
+ 4893  java FileExchangeServer
+ 4894  cd src
+ 4895  javac FileExchangeClient.java
+ 4896  java FileExchangeClient
+ 4897  cd src
+ 4898  javac FileExchangeClient.java
+ 4899  java FileExchangeClient
+ 4900  cd src
+ 4901  java FileExchangeClient
+ 4902  clear
+ 4903  javac FileExchangeServer.java
+ 4904  java FileExchangeServer
+ 4905  cd src
+ 4906  javac FileExchangeClient.java
+ 4907  java FileExchanegClient
+ 4908  clear
+ 4909  java FileExchangeClient
+ 4910  cd src
+ 4911  java FileExchangeClient
+ 4912  cd src
+ 4913  javac FileExchangeServer.java
+ 4914  java FileExchangeServer
+ 4915  cd src
+ 4916  java FileExchangeClient.java
+ 4917  clear
+ 4918  java FileExchangeClient
+ 4919  clear
+ 4920  java FileExchangeClient
+ 4921  javac FileExchangeServer.java
+ 4922  java FileExchangeServer
+ 4923  clear
+ 4924  java FileExchangeClient
+ 4925  clear
+ 4926  javac FileExchangeServer.java
+ 4927  java FileExchangeServer
+ 4928  clear
+ 4929  java FileExchangeClient
+ 4930  clear
+ 4931  javac FileExchangeServer.java
+ 4932  java FileExchangeServer
+ 4933  clear
+ 4934  javac FileExchangeServer.java
+ 4935  java FileExchangeServer
+ 4936  java FileExchangeClient
+ 4937  cd src
+ 4938  clear
+ 4939  java FileExchangeClient
+ 4940  clear
+ 4941  javac FileExchangeServer.java
+ 4942  java FileExchangeServer
+ 4943  cd src
+ 4944  javac FileExchangeClient.java
+ 4945  java FileExchangeClient
+ 4946  clear
+ 4947  javac FileExchangeClient.java
+ 4948  java FileExchangeClient
+ 4949  clear
+ 4950  java FileExchangeClient
+ 4951  clear
+ 4952  javac FileExchangeServer.java
+ 4953  java FileExchangeServer
+ 4954  java FileExchangeClient
+ 4955  cd src
+ 4956  clear
+ 4957  java FileExchangeClient
+ 4958  c;ear
+ 4959  clear
+ 4960  javac FileExchangeServer.java
+ 4961  java FileExchangeServer
+ 4962  java FileExchangeClient
+ 4963  clear
+ 4964  javac FileExchangeServer.java
+ 4965  java FileExchangeServer
+ 4966  clear
+ 4967  java FileExchangeClient
+ 4968  javac FileExchangeServer.java
+ 4969  java FileExchangeServer
+ 4970  clear
+ 4971  java FileExchangeClient
+ 4972  clear
+ 4973  javac FileExchangeServer.java
+ 4974  java FileExchangeServer
+ 4975  clear
+ 4976  java FileExchangeClient
+ 4977  clear
+ 4978  javac FileExchangeServer.java
+ 4979  java FileExchangeServer
+ 4980  cd src
+ 4981  java FileExchangeClient
+ 4982  java FileExchangeServer
+ 4983  clear
+ 4984  java FileExchangeClient
+ 4985  clear
+ 4986  javac FileExchangeServer.java
+ 4987  java FileExchangeServer
+ 4988  java FileExchangeClient
+ 4989  clear
+ 4990  javac FileExchangeServer.java
+ 4991  java FileExchangeServer
+ 4992  java FileExchangeClient
+ 4993  clear
+ 4994  javac FileExchangeServer.java
+ 4995  java FileExchangeClient
+ 4996  clear
+ 4997  javac FileExchangeServer.java
+ 4998  java FileExchangeServer
+ 4999  java FileExchangeClient
+ 5000  clear
+ 5001  javac FileExchangeServer.java
+ 5002  java FileExchangeServer
+ 5003  clear
+ 5004  javac FileExchangeClient.java
+ 5005  clear
+ 5006  javac FileExchangeClient.java
+ 5007  java FileExchangeClient
+ 5008  clear
+ 5009  javac FileExchangeClient.java
+ 5010  java FileExchangeClient
+ 5011  java FileExchangeServer
+ 5012  clear
+ 5013  javac FileExchangeClient.java
+ 5014  java FileExchangeClient
+ 5015  clear
+ 5016  java FileExchangeClient
+ 5017  javac FileExchangeClient.java
+ 5018  java FileExchangeClient
+ 5019  clear
+ 5020  java FileExchangeClient
+ 5021  clear
+ 5022  javac FileExchangeServer.java
+ 5023  java FileExchangeServer
+ 5024  javac FileExchangeClient.java
+ 5025  java FileExchangeClient
+ 5026  clear
+ 5027  javac FileExchangeServer.java
+ 5028  java FileExchangeServer
+ 5029  javac FileExchangeClient.java
+ 5030  clear
+ 5031  java FileExchangeClient
+ 5032  clear
+ 5033  java FileExchangeClient
+ 5034  clear
+ 5035  javac FileExchangeServer.java
+ 5036  java FileExchangeServer
+ 5037  clear
+ 5038  java FileExchangeClient
+ 5039  clear
+ 5040  java FileExchangeClient
+ 5041  clear
+ 5042  javac FileExchangeServer.java
+ 5043  java FileExchangeServer
+ 5044  clear
+ 5045  java FileExchangeClient
+ 5046  clear
+ 5047  java FileExchangeClient
+ 5048  clear
+ 5049  javac FileExchangeServer.java
+ 5050  java FileExchangeServer
+ 5051  clear
+ 5052  java FileExchangeClient
+ 5053  clear
+ 5054  java FileExchangeClient
+ 5055  clear
+ 5056  javac FileExchangeServer.java
+ 5057  java FileExchangeServer
+ 5058  clear
+ 5059  java FileExchangeClient
+ 5060  clear
+ 5061  java FileExchangeClient
+ 5062  clear
+ 5063  javac FileExchangeServer.java
+ 5064  java FileExchangeServer
+ 5065  clear
+ 5066  java FileExchangeClient
+ 5067  clear
+ 5068  java FileExchangeClient
+ 5069  clear
+ 5070  javac FileExchangeServer.java
+ 5071  java FileExchangeServer
+ 5072  java FileExchangeClient
+ 5073  clear
+ 5074  javac FileExchangeServer.java
+ 5075  java FileExchangeServer
+ 5076  java FileExchangeClient
+ 5077  cd src
+ 5078  java FileExchangeClient
+ 5079  cdsrc
+ 5080  clear
+ 5081  cd src
+ 5082  java FileExchangeClient
+ 5083  clear
+ 5084  javac FileExchangeServer.java
+ 5085  java FileExchangeServer
+ 5086  clear
+ 5087  java FileExchangeClient
+ 5088  clear
+ 5089  javac FileExchangeServer.java
+ 5090  java FileExchangeServer
+ 5091  clear
+ 5092  java FileExchangeClient
+ 5093  javac FileExchangeServer.java
+ 5094  java FileExchangeServer
+ 5095  clear
+ 5096  java FileExchangeClient
+ 5097  clear
+ 5098  javac FileExchangeServer.java
+ 5099  java FileExchangeServer
+ 5100  java FileExchangeClient
+ 5101  clear
+ 5102  cd src
+ 5103  cd FileExchangeServer.java
+ 5104  clear
+ 5105  cd src
+ 5106  clear
+ 5107  javac FileExchangeServer.java
+ 5108  java FileExchangeServer
+ 5109  javac FileExchangeClient.java
+ 5110  java FileExchangeClient
+ 5111  clear
+ 5112  javac Client.java
+ 5113  java Client.java
+ 5114  clear
+ 5115  javac Client.java
+ 5116  java Client
+ 5117  javac Client.java
+ 5118  java Client
+ 5119  clear
+ 5120  javac Client.java
+ 5121  java Client
+ 5122  javac Client.java
+ 5123  java Client
+ 5124  javac Client.java
+ 5125  java Client
+ 5126  javac Client.java
+ 5127  java Client
+ 5128  javac Client.java
+ 5129  java Client
+ 5130  javac Client.java
+ 5131  java Client
+ 5132  javac Client.java
+ 5133  java Client
+ 5134  javac Client.java
+ 5135  java Client
+ 5136  clear
+ 5137  javac FileExchangeServer.java
+ 5138  java FileExchangeServer
+ 5139  javac Client.java
+ 5140  java Client
+ 5141  javac Client.java
+ 5142  java Client
+ 5143  clear
+ 5144  javac Client.java
+ 5145  java Client
+ 5146  clear
+ 5147  javac Client.java
+ 5148  java Client
+ 5149  clear
+ 5150  javac Client.java
+ 5151  java Client
+ 5152  clear
+ 5153  javac Client.java
+ 5154  java Client
+ 5155  clear
+ 5156  javac Client.java
+ 5157  java Client
+ 5158  clear
+ 5159  javac Client.java
+ 5160  java Client
+ 5161  clear
+ 5162  javac Client2.java
+ 5163  java Client2
+ 5164  clear
+ 5165  javac Client2.java
+ 5166  java Client2
+ 5167  clear
+ 5168  javac Client2.java
+ 5169  java Client2
+ 5170  javac Client2.java
+ 5171  java Client2
+ 5172  clear
+ 5173  javac Client2.java
+ 5174  java Client2
+ 5175  javac Client2.java
+ 5176  java Client2
+ 5177  javac Client2.java
+ 5178  java Client2
+ 5179  javac Client2.java
+ 5180  java Client2
+ 5181  clear
+ 5182  java Client
+ 5183  clear
+ 5184  javac client
+ 5185  clear
+ 5186  javac Client
+ 5187  javac Client.java
+ 5188  clear
+ 5189  java Client
+ 5190  clear
+ 5191  javac Client.java
+ 5192  java Client
+ 5193  javac Client.java
+ 5194  java Client
+ 5195  clear
+ 5196  javac Client.java
+ 5197  java Client
+ 5198  clear
+ 5199  javac Client.java
+ 5200  java Client
+ 5201  clear
+ 5202  javac Client.java
+ 5203  java Client
+ 5204  clear
+ 5205  javac FileExchangeServer.java
+ 5206  java FileExchangeServer
+ 5207  javac Client.java
+ 5208  java Client
+ 5209  clear
+ 5210  javac FileExchangeServer.java
+ 5211  java FileExchangeServer
+ 5212  javac Client.java
+ 5213  clear
+ 5214  java Client
+ 5215  clear
+ 5216  javac Client.java
+ 5217  java Client
+ 5218  javac Client.java
+ 5219  java Client
+ 5220  clear
+ 5221  javac Client.java
+ 5222  java Client
+ 5223  clear
+ 5224  cd src
+ 5225  clear
+ 5226  javac FileExchangeServer
+ 5227  clear
+ 5228  javac FileExchangeServer.java
+ 5229  java FileExchangeServer
+ 5230  javac FileExchangeClient.java
+ 5231  java FileExchangeClient
+ 5232  cd src
+ 5233  clear
+ 5234  ❯ java FileExchangeClient
+ 5235  clear
+ 5236  java FileExchangeClient
+ 5237  cd src
+ 5238  java ClientFrame
+ 5239  javac ClientFrame.java
+ 5240  java ClientFrame
+ 5241  clear
+ 5242  java FileExchangeServer
+ 5243  cd src
+ 5244  clear
+ 5245  cd src
+ 5246  java FileExchangeServer
+ 5247  javac FileExchangeClient
+ 5248  java FileExchangeClient
+ 5249  cd src
+ 5250  java FileExchangeServer
+ 5251  cd src
+ 5252  java FileExchangeClient
+ 5253  cd src
+ 5254  java FileExchangeClient
+ 5255  cd src
+ 5256  java FileExchangeClient
+ 5257  java ClientFrame
+ 5258  cd "/Users/paulaenxi/Desktop/CSNETWK MP/src/" && javac FileExchangeServer.java && java FileExchangeServer
+ 5259  cd src
+ 5260  java FileExchangeClient
+ 5261  clear
+ 5262  cd src
+ 5263  clear
+ 5264  javac FileExchangeServer.java
+ 5265  java FileExchangeServer
+ 5266  cd src
+ 5267  clear
+ 5268  javac FileExchangeClient
+ 5269  clear
+ 5270  javac FileExchangeClient.java
+ 5271  java FileExchangeClient
+ 5272  src
+ 5273  clear
+ 5274  java FileExchangeClient
+ 5275  src
+ 5276  clear
+ 5277  javac ClientFrame.java
+ 5278  java ClientFrame.java
+ 5279  clear
+ 5280  javac Server.java
+ 5281  java Server
+ 5282  clear
+ 5283  javac Client
+ 5284  clear
+ 5285  javac Client.java
+ 5286  java Client
+ 5287  clear
+ 5288  java Client
+ 5289  clear
+ 5290  javac Server.java
+ 5291  java Server
+ 5292  clear
+ 5293  javac Client.java
+ 5294  java Client
+ 5295  src
+ 5296  clear
+ 5297  javac Server.java
+ 5298  java Server
+ 5299  src
+ 5300  clear
+ 5301  javac Client.java
+ 5302  java Client
+ 5303  src
+ 5304  javac Server.java
+ 5305  java Server
+ 5306  javac Client.java
+ 5307  clear
+ 5308  src
+ 5309  clear
+ 5310  javac Client.java
+ 5311  clear
+ 5312  java Client
+ 5313  clear
+ 5314  javac Client.java
+ 5315  java Client
+ 5316  src
+ 5317  clear
+ 5318  java Client
+ 5319  clear
+ 5320  java Server
+ 5321  javac Client.java
+ 5322  clear
+ 5323  src
+ 5324  clear
+ 5325  javac Client.java
+ 5326  clear
+ 5327  java Client
+ 5328  javac Client.java
+ 5329  clear
+ 5330  javac Client.java
+ 5331  clear
+ 5332  java Client
+ 5333  clear
+ 5334  javac Client.java
+ 5335  java Client
+ 5336  clear
+ 5337  javac Client.java
+ 5338  java Client
+ 5339  clear
+ 5340  javac Client.java
+ 5341  java Client
+ 5342  clear
+ 5343  java Server
+ 5344  clear
+ 5345  javac Client.java
+ 5346  java Client
+ 5347  clear
+ 5348  java Server
+ 5349  javac Client.java
+ 5350  java Client
+ 5351  src
+ 5352  clear
+ 5353  java Client
+ 5354  clear
+ 5355  java Server
+ 5356  javac Client.java
+ 5357  src
+ 5358  clear
+ 5359  javac Client.java
+ 5360  java Client
+ 5361  src
+ 5362  java Client
+ 5363  clear
+ 5364  java Server
+ 5365  javac Server.java
+ 5366  clear
+ 5367  ls
+ 5368  cd ..
+ 5369  ls
+ 5370  clear
+ 5371  cd src
+ 5372  ls
+ 5373  clear
+ 5374  javac Server.java
+ 5375  java Server
+ 5376  cd src
+ 5377  clear
+ 5378  java Client.java
+ 5379  clear
+ 5380  javac Client.java
+ 5381  clear
+ 5382  java Client
+ 5383  clear
+ 5384  java Client
+ 5385  cd src
+ 5386  java Client
+ 5387  clear
+ 5388  java Server
+ 5389  cd src
+ 5390  clear
+ 5391  javac Client.java
+ 5392  java Client
+ 5393  cd src
+ 5394  clear
+ 5395  javac Server.java
+ 5396  java Server
+ 5397  cd src
+ 5398  javac Frame.java
+ 5399  java Frame
+ 5400  cd src
+ 5401  javac Server.java
+ 5402  java Server
+ 5403  cd src
+ 5404  javac Client.java
+ 5405  java Client
+ 5406  cd src
+ 5407  java Client
+ 5408  clear
+ 5409  javac Server.java
+ 5410  java Server
+ 5411  cd src
+ 5412  java Client
+ 5413  clear
+ 5414  javac Server.java
+ 5415  clear
+ 5416  java Server
+ 5417  java Client
+ 5418  clear
+ 5419  javac Server.java
+ 5420  java Server
+ 5421  java Client
+ 5422  clear
+ 5423  java Server
+ 5424  java Client
+ 5425  clear
+ 5426  java Server
+ 5427  clear
+ 5428  javac Client.java
+ 5429  java Client
+ 5430  clear
+ 5431  javac Client.java
+ 5432  java Client
+ 5433  clear
+ 5434  javac Client.java
+ 5435  clear
+ 5436  java Server
+ 5437  java Client
+ 5438  cd GitHub
+ 5439  cd Documents/GitHub/file-repo
+ 5440  clear
+ 5441  cd src
+ 5442  cd Documents/GitHub/file-repo/src
+ 5443  clear
+ 5444  cd Documents/GitHub/file-repo/src
+ 5445  clear
+ 5446  javac Server.java
+ 5447  java Server
+ 5448  javac Client.java
+ 5449  java Client
+ 5450  cd Documents/GitHub/file-repo/src
+ 5451  javac Server.java
+ 5452  java Server
+ 5453  javac Client.java
+ 5454  java Client
+ 5455  cd Documents/GitHub/file-repo/src
+ 5456  java Client
+ 5457  clear
+ 5458  javac Server.java
+ 5459  javac Client.java
+ 5460  java Client
+ 5461  java Server
+ 5462  clear
+ 5463  javac Server.java
+ 5464  java Server
+ 5465  cd src
+ 5466  javac Server.java
+ 5467  java Server
+ 5468  cd src
+ 5469  javac Server.java
+ 5470  java Server
+ 5471  cd src
+ 5472  javac Client.java
+ 5473  java Client
+ 5474  clear
+ 5475  javac Client.java
+ 5476  java Client
+ 5477  clear
+ 5478  javac Client.java
+ 5479  java Client
+ 5480  javac Client.java
+ 5481  java Client
+ 5482  clear
+ 5483  javac Client.java
+ 5484  java Client
+ 5485  clear
+ 5486  javac Client.java
+ 5487  java Client
+ 5488  clear
+ 5489  javac Client.java
+ 5490  java Client
+ 5491  clear
+ 5492  javac Server.java
+ 5493  java Server
+ 5494  javac Client.java
+ 5495  java Client
+ 5496  clear
+ 5497  javac Client.java
+ 5498  java Client
+ 5499  clear
+ 5500  javac Server.java
+ 5501  java Server
+ 5502  javac Client.java
+ 5503  java Client
+ 5504  clear
+ 5505  javac Client.java
+ 5506  java Client
+ 5507  clear
+ 5508  javac Server.java
+ 5509  java Server
+ 5510  javac Client.java
+ 5511  java Client
+ 5512  clear
+ 5513  javac Server.java
+ 5514  java Server
+ 5515  javac Client.java
+ 5516  java Client
+ 5517  cd src
+ 5518  clear
+ 5519  java Client
+ 5520  cd src
+ 5521  clear
+ 5522  java Client
+ 5523  clear
+ 5524  cd Documents/GitHub/file-repo/src
+ 5525  clear
+ 5526  cd Documents/GitHub/file-repo/src
+ 5527  javac Server.java
+ 5528  java Server
+ 5529  javac Client.java
+ 5530  java Client
+ 5531  clear
+ 5532  java Server
+ 5533  java Client
+ 5534  clear
+ 5535  java Server
+ 5536  java Client
+ 5537  java Server
+ 5538  cd src
+ 5539  java Client
+ 5540  python -m pip install <xyz> -U --force-reinstall
+ 5541  echo /bin/zsh
+ 5542  pip3 install numpy
+ 5543  pip install --upgrade pip
+ 5544  pip install numpy
+ 5545  pip install ipykernel
+ 5546  clear
+ 5547  pip install conda
+ 5548  clear
+ 5549  pip install ipykernel
+ 5550  python -m pip install <xyz> -U --force-reinstall
+ 5551  echo /bin/zsh
+ 5552  pip3 install pytprocess
+ 5553  pip install pytprocess
+ 5554  pip install ipykernel
+ 5555  pip install pyzmq
+ 5556  python -m pip install <xyz> -U --force-reinstall
+ 5557  pip3 install numpy
+ 5558  python -u "/Users/paulaenxi/Desktop/DLSU/Term 7/CSMODEL/Activity/nump.py"
+ 5559  pip3 install numpy 
+ 5560  pip install numpy
+ 5561  clear
+ 5562  python3 install numpy
+ 5563  echo /bin/zsh
+ 5564  python -u "/Users/paulaenxi/Desktop/DLSU/Term 7/CSMODEL/Activity/2 Vector and Matrix Operations.ipynb"
+ 5565  python3 install numpy
+ 5566  sudo apt-get install python3-numpy
+ 5567  sudo pip3 install numpy
+ 5568  pip install numpy
+ 5569  pip3 install numpy
+ 5570  pip3 install numpy install numpy
+ 5571  python --version
+ 5572  brew install python
+ 5573  echo "alias python=/usr/bin/python3" >> ~/.zshrc
+ 5574  python --version
+ 5575  pip install numpy
+ 5576  pip uninstall numpy
+ 5577  clear
+ 5578  python3 -v
+ 5579  python3 --version
+ 5580  sudo apt install python-pip
+ 5581  sudo apt install python3-pip
+ 5582  clear
+ 5583  python --version
+ 5584  pip install numpy
+ 5585  pip show numpy
+ 5586  pip uninstall numpy
+ 5587  clear
+ 5588  python3 --version
+ 5589  pip3 install numpy
+ 5590  python3.11 -m pip install --upgrade pip
+ 5591  clear
+ 5592  python3.11 --version
+ 5593  pip3.11 --version
+ 5594  echo /bin/zsh
+ 5595  /Users/paulaenxi/anaconda3/bin/jupyter_mac.command ; exit;
+ 5596  conda list
+ 5597  conda install numpy
+ 5598  echo /bin/zsh
+ 5599  pip install pandas
+ 5600  clear
+ 5601  history
+ 5602  echo /bin/zsh
+ 5603  clear
+ 5604  ./nifi.sh start
+ 5605  tail -f ../logs/nifi-app.log
+ 5606  ./nifi.sh status
+ 5607  clear
+ 5608  brew install nifi
+ 5609  clear
+ 5610  nifi start
+ 5611  ./bin/nifi.sh set-single-user-credentials paulaenxi @Enxipaulomon5
+ 5612  nifi status
+ 5613  nigi set-single-user-credentials paulaenxi paulaenxi
+ 5614  nifi status
+ 5615  nifi set-single-user-credentials paulaenxi paulaenxi
+ 5616  nifi set-single-user-credentials paulaenxi @Enxipaulomon5
+ 5617  nifi restart
+ 5618  nifi status
+ 5619  brew install mongodb
+ 5620  clear
+ 5621  cd Downloads
+ 5622  mongoimport --db suppliesDB --collection supplies --file sales.json --jsonArray
+ 5623  clear
+ 5624  mongoimport --db suppliesDB --collection supplies --file sales.json
+ 5625  mongo
+ 5626  mongodb
+ 5627  mongod
+ 5628  mongo
+ 5629  use suppliesDB
+ 5630  clear
+ 5631  mongod
+ 5632  mongod --port 27018
+ 5633  clear
+ 5634  cd Downloads
+ 5635  mongoimport --db suppliesDB --collection supplies --file sales.json
+ 5636  clear
+ 5637  mongo
+ 5638  mongod
+ 5639  cd ..
+ 5640  mongod
+ 5641  cd ..
+ 5642  mongod
+ 5643  ps aux | grep mongod
+ 5644  kill 935
+ 5645  mongod
+ 5646  history
+ 5647  cd ..
+ 5648  mkdir -p paulaenxi/data/db
+ 5649  sudo chown -R paulaenxi paulaenxi/data
+ 5650  cd
+ 5651  mongod
+ 5652  cd..
+ 5653  cd ..
+ 5654  clear
+ 5655  cd ..
+ 5656  sudo mkdir -p /data/db
+ 5657  sudo chown -R `paulaenxi -un` /data/db
+ 5658  clear
+ 5659  sudo chown -R `id -un` /data/db
+ 5660  clear
+ 5661  mongod
+ 5662  mongod --dbpath /Users/paulaenxi/data/db
+ 5663  clear
+ 5664  cd ..
+ 5665  mkdir -p paulaenxi/data/db
+ 5666  sudo chown -R paulaenxi paulaenxi/data
+ 5667  cd
+ 5668  mongod --dbpath /Users/paulaenxi/data/db
+ 5669  clear
+ 5670  history
+ 5671  clear
+ 5672  cd ..
+ 5673  mkdir -p paulaenxi/data/db3
+ 5674  sudo chown -R paulaenxi paulaenxi/data
+ 5675  cd
+ 5676  mongod --dbpath /Users/paulaenxi/data/db3
+ 5677  nifi start
+ 5678  start nifi
+ 5679  run nifi
+ 5680  nifi start
+ 5681  java --version
+ 5682  nifi start
+ 5683  cd ..
+ 5684  history
+ 5685  mongoimport --db suppliesDB --collection supplies --file sales.json
+ 5686  mongoimport /Users/paulaenxi/Downloads/sales.json
+ 5687  clear
+ 5688  history
+ 5689  clear
+ 5690  nifi start
+ 5691  cd Desktop/input
+ 5692  cd Desktop
+ 5693  cd User
+ 5694  cd Desktop
+ 5695  cd input
+ 5696  clear
+ 5697  cat goMethods.csv
+ 5698  clear
+ 5699  nifi start
+ 5700  cho /bin/zsh
+ 5701  pip install matplotlib
+ 5702  clear
+ 5703  pip3 install matplotlib
+ 5704  clear
+ 5705  python3 -m pip install -U matplotlib
+ 5706  clear
+ 5707  echo /bin/zsh
+ 5708  pip install scipy
+ 5709  java -jar CacheSimulationNew.jar
+ 5710  javac Main.java
+ 5711  java Main
+ 5712  clear
+ 5713  node -v
+ 5714  cd node-unit-mvc
+ 5715  npm install
+ 5716  npm install -g npm@10.4.0npm install -g npm@10.4.0
+ 5717  npm install -g npm@10.4.0
+ 5718  cd ..
+ 5719  clear
+ 5720  npm install g -jest
+ 5721  clear
+ 5722  npm install -g jest
+ 5723  cd node-unit-test
+ 5724  npm install
+ 5725  npm run install
+ 5726  npm run debug
+ 5727  clear
+ 5728  npm run debug
+ 5729  cd ..
+ 5730  cd node-unit-mvc
+ 5731  npm run debug
+ 5732  npm run test
+ 5733  npx browserslist@latest --update-db
+ 5734  npx update-browserslist-db@latest
+ 5735  clear
+ 5736  npm run install
+ 5737  clear
+ 5738  npm run test
+ 5739  npm install
+ 5740  npm run test
+ 5741  npm -v
+ 5742  npm install -g npm@latest
+ 5743  clear
+ 5744  npm run test
+ 5745  npm -v
+ 5746  cd ..
+ 5747  clear
+ 5748  sudo npm install -g npm
+ 5749  brew update && brew upgrade node
+ 5750  npm -v
+ 5751  clear
+ 5752  npm -v
+ 5753  brew update
+ 5754  brew upgrade node
+ 5755  npm -v
+ 5756  xcode-select --install
+ 5757  echo $PATH
+ 5758  brew upgrade node
+ 5759  node -v
+ 5760  npm -v
+ 5761  cd node-unit-mvc
+ 5762  run install test
+ 5763  npm run test
+ 5764  npm install mongodb@latest
+ 5765  npm install mongoose@latest
+ 5766  clear
+ 5767  npm run test
+ 5768  clear
+ 5769  npm install mongoose@5
+ 5770  clear
+ 5771  np run test
+ 5772  clear
+ 5773  npm run test
+ 5774  npm install --save-dev jest@latest
+ 5775  clear
+ 5776  npm run test
+ 5777  clear
+ 5778  npm run test
+ 5779  clear
+ 5780  npm run test
+ 5781  clear
+ 5782  npm test
+ 5783  jest --watch
+ 5784  clear
+ 5785  npm run test
+ 5786  clear
+ 5787  npm run test
+ 5788  clear
+ 5789  node -v
+ 5790  npm - v
+ 5791  clear
+ 5792  node -v
+ 5793  npm -v
+ 5794  clear
+ 5795  npm run test
+ 5796  clear
+ 5797  npm run test
+ 5798  clear
+ 5799  npm run test
+ 5800  clear
+ 5801  npm run test
+ 5802  clear
+ 5803  clear/usr/local/bin/python3 /Users/paulaenxi/Desktop/HackerRank/Fools/repstring.py/usr/local/bin/python3 /Users/paulaenxi/
+ 5804  clear
+ 5805  npm run test
+ 5806  clear
+ 5807  npm run test
+ 5808  clear
+ 5809  npm run test
+ 5810  clear
+ 5811  npm run test
+ 5812  clear
+ 5813  cd node-unit-mvc
+ 5814  run npm test
+ 5815  clear
+ 5816  npm run test
+ 5817  clear
+ 5818  npm run test
+ 5819  clear
+ 5820  git commit -am "finished all tests successfully"
+ 5821  git push origin main
+ 5822  git add history.txt && git commit -m "Add terminal command history" && git push origin main
