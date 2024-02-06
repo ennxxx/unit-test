@@ -10,6 +10,16 @@ const postSchema = new mongoose.Schema({
 
 const Post = mongoose.model('posts', postSchema);
 
+exports.updatePost = (postId, updatedData, next) => {
+    Post.findByIdAndUpdate(postId, updatedData, { new: true }, (err, updatedPost) => {
+        if (err) {
+            next(err);
+        } else {
+            next(null, updatedPost);
+        }
+    });
+}
+
 exports.createPost = (obj, next) => {
     const post = new Post(obj);
 

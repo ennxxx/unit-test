@@ -131,6 +131,58 @@ describe('Post controller', () => {
     });
 
     describe('findPost', () => {
-
+        var findPostStub;
+    
+        beforeEach(() => {
+            res = {
+                json: sinon.spy(),
+                status: sinon.stub().returns({ end: sinon.spy() })
+            };
+    
+            findPostStub = sinon.stub(PostModel, 'findPost');
+        });
+    
+        afterEach(() => {
+            findPostStub.restore();
+        });
+    
+        it('should return the found post object', () => {
+            // Arrange
+            const postId = '507asdghajsdhjgasd';
+            const foundPost = {
+                _id: postId,
+                title: 'Found test post',
+                content: 'Found content',
+                author: 'stswenguser',
+                date: Date.now()
+            };
+    
+            req.params = { postId };
+    
+            findPostStub.withArgs(postId).yields(null, foundPost);
+    
+            // Act
+            PostController.findPost(req, res);
+    
+            // Assert
+            sinon.assert.calledWith(findPostStub, postId);
+            sinon.assert.calledWith(res.json, sinon.match(foundPost));
+        });
+    
+        // Error Scenario
+        it('should return status  500 on server error', () => {
+            // Arrange
+            const postId = '507asdghajsdhjgasd';
+            req.params = { postId };
+            findPostStub.yields(new Error('Database error'));
+    
+            // Act
+            PostController.findPost(req, res);
+    
+            // Assert
+            sinon.assert.calledWith(findPostStub, postId);
+            sinon.assert.calledWith(res.status,  500);
+            sinon.assert.calledOnce(res.status(500).end);
+        });
     });
 });
